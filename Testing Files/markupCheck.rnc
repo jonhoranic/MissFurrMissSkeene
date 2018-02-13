@@ -1,0 +1,18 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = xml
+xml = element xml {head, body}
+    head = element head {title}
+        title = element title {text}
+    body = element body {p+}
+        p = element p {persName* | repTerm+ | oneTerm* | punct+}
+            persName = element persName {hono?, firstname?, lastname}
+                hono = element hono {text}
+                firstname = element firstname {text}
+                lastname = element lastname {text}
+            repTerm = element repTerm {root, add?, text}
+            oneTerm = element oneTerm {root, add?, text}
+                root = attribute root {text}
+                add = attribute add {"ing" | "en" | "s" | "ed" | "ly" | "er" | "un" | "tion"}
+            punct = element punct {type, text}
+                type = attribute type {"comma" | "period"}
