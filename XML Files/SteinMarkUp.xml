@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 2018-03-19 JMH: Comment out this schema line after checking markup. -->
 <?xml-model href="markupCheck.rnc" type="application/relax-ng-compact-syntax"?>
+
 <xml>
     <head>
         <title>MISS FURR AND MISS SKEENE</title>
+        <source>Project Gutenberg EBook of Geography and Plays, by Gertrude Stein</source>
+        <link>https://www.gutenberg.org/files/33403/33403-h/33403-h.htm#MISS_FURR_AND_MISS_SKEENE</link>
     </head>
     <body>
         <p><persName><firstname>Helen</firstname> <lastname>Furr</lastname></persName> <repTerm root="had">had</repTerm> <repTerm root="quite">quite</repTerm> <repTerm root="as">as</repTerm> <repTerm root="pleasant">pleasant</repTerm> <repTerm root="home">home</repTerm><punct type="period">.</punct> <persName><hono>Mrs.</hono> <lastname>Furr</lastname></persName> <repTerm root="was">was</repTerm> <repTerm root="quite">quite</repTerm> <repTerm root="as">as</repTerm> <repTerm root="pleasant">pleasant</repTerm> <repTerm root="woman">woman</repTerm><punct type="period">.</punct> <persName><hono>Mr.</hono> <lastname>Furr</lastname></persName> <repTerm root="was">was</repTerm>

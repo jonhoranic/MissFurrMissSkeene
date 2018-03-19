@@ -2,8 +2,10 @@ datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
 start = xml
 xml = element xml {head, body}
-    head = element head {title}
+    head = element head {title, source, link}
         title = element title {text}
+        source = element source {text}
+        link = element link {text}
     body = element body {p+}
         p = element p {(persName | repTerm | oneTerm | punct)*}
             persName = element persName {hono?, firstname?, lastname?}
