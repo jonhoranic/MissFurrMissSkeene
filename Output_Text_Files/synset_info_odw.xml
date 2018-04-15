@@ -1,0 +1,3396 @@
+<xml>
+    <word>
+        <w>another</w>
+        <synsetCount>1</synsetCount>
+        <synset>
+            <synId>Synset('another.s.01')</synId>
+            <wnDef>any of various alternatives; some other</wnDef>
+            <lemma>Lemma('another.s.01.another')</lemma>
+            <lemma>Lemma('another.s.01.some_other')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>anything</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>back</w>
+        <synsetCount>28</synsetCount>
+        <synset>
+            <synId>Synset('back.n.01')</synId>
+            <wnDef>the posterior part of a human (or animal) body from the neck to the end of the
+                spine</wnDef>
+            <lemma>Lemma('back.n.01.back')</lemma>
+            <lemma>Lemma('back.n.01.dorsum')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('rear.n.05')</synId>
+            <wnDef>the side that goes last or is not normally seen</wnDef>
+            <lemma>Lemma('rear.n.05.rear')</lemma>
+            <lemma>Lemma('rear.n.05.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.n.03')</synId>
+            <wnDef>the part of something that is furthest from the normal viewer</wnDef>
+            <lemma>Lemma('back.n.03.back')</lemma>
+            <lemma>Lemma('back.n.03.rear')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.n.04')</synId>
+            <wnDef>(football) a person who plays in the backfield</wnDef>
+            <lemma>Lemma('back.n.04.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('spinal_column.n.01')</synId>
+            <wnDef>the series of vertebrae forming the axis of the skeleton and protecting the
+                spinal cord</wnDef>
+            <lemma>Lemma('spinal_column.n.01.spinal_column')</lemma>
+            <lemma>Lemma('spinal_column.n.01.vertebral_column')</lemma>
+            <lemma>Lemma('spinal_column.n.01.spine')</lemma>
+            <lemma>Lemma('spinal_column.n.01.backbone')</lemma>
+            <lemma>Lemma('spinal_column.n.01.back')</lemma>
+            <lemma>Lemma('spinal_column.n.01.rachis')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('binding.n.05')</synId>
+            <wnDef>the protective covering on the front, back, and spine of a book</wnDef>
+            <lemma>Lemma('binding.n.05.binding')</lemma>
+            <lemma>Lemma('binding.n.05.book_binding')</lemma>
+            <lemma>Lemma('binding.n.05.cover')</lemma>
+            <lemma>Lemma('binding.n.05.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.n.07')</synId>
+            <wnDef>the part of a garment that covers the back of your body</wnDef>
+            <lemma>Lemma('back.n.07.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.n.08')</synId>
+            <wnDef>a support that you can lean against while sitting</wnDef>
+            <lemma>Lemma('back.n.08.back')</lemma>
+            <lemma>Lemma('back.n.08.backrest')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.n.09')</synId>
+            <wnDef>(American football) the position of a player on a football team who is stationed
+                behind the line of scrimmage</wnDef>
+            <lemma>Lemma('back.n.09.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.01')</synId>
+            <wnDef>be behind; approve of</wnDef>
+            <lemma>Lemma('back.v.01.back')</lemma>
+            <lemma>Lemma('back.v.01.endorse')</lemma>
+            <lemma>Lemma('back.v.01.indorse')</lemma>
+            <lemma>Lemma('back.v.01.plump_for')</lemma>
+            <lemma>Lemma('back.v.01.plunk_for')</lemma>
+            <lemma>Lemma('back.v.01.support')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.02')</synId>
+            <wnDef>travel backward</wnDef>
+            <lemma>Lemma('back.v.02.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('second.v.01')</synId>
+            <wnDef>give support or one's approval to</wnDef>
+            <lemma>Lemma('second.v.01.second')</lemma>
+            <lemma>Lemma('second.v.01.back')</lemma>
+            <lemma>Lemma('second.v.01.endorse')</lemma>
+            <lemma>Lemma('second.v.01.indorse')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.04')</synId>
+            <wnDef>cause to travel backward</wnDef>
+            <lemma>Lemma('back.v.04.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.05')</synId>
+            <wnDef>support financial backing for</wnDef>
+            <lemma>Lemma('back.v.05.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.06')</synId>
+            <wnDef>be in back of</wnDef>
+            <lemma>Lemma('back.v.06.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('bet_on.v.01')</synId>
+            <wnDef>place a bet on</wnDef>
+            <lemma>Lemma('bet_on.v.01.bet_on')</lemma>
+            <lemma>Lemma('bet_on.v.01.back')</lemma>
+            <lemma>Lemma('bet_on.v.01.gage')</lemma>
+            <lemma>Lemma('bet_on.v.01.stake')</lemma>
+            <lemma>Lemma('bet_on.v.01.game')</lemma>
+            <lemma>Lemma('bet_on.v.01.punt')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.08')</synId>
+            <wnDef>shift to a counterclockwise direction</wnDef>
+            <lemma>Lemma('back.v.08.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.09')</synId>
+            <wnDef>establish as valid or genuine</wnDef>
+            <lemma>Lemma('back.v.09.back')</lemma>
+            <lemma>Lemma('back.v.09.back_up')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.v.10')</synId>
+            <wnDef>strengthen by providing with a back or backing</wnDef>
+            <lemma>Lemma('back.v.10.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.a.01')</synId>
+            <wnDef>related to or located at the back</wnDef>
+            <lemma>Lemma('back.a.01.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.s.02')</synId>
+            <wnDef>located at or near the back of an animal</wnDef>
+            <lemma>Lemma('back.s.02.back')</lemma>
+            <lemma>Lemma('back.s.02.hind')</lemma>
+            <lemma>Lemma('back.s.02.hinder')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.s.03')</synId>
+            <wnDef>of an earlier date</wnDef>
+            <lemma>Lemma('back.s.03.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.01')</synId>
+            <wnDef>in or to or toward a former location</wnDef>
+            <lemma>Lemma('back.r.01.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.02')</synId>
+            <wnDef>at or to or toward the back or rear</wnDef>
+            <lemma>Lemma('back.r.02.back')</lemma>
+            <lemma>Lemma('back.r.02.backward')</lemma>
+            <lemma>Lemma('back.r.02.backwards')</lemma>
+            <lemma>Lemma('back.r.02.rearward')</lemma>
+            <lemma>Lemma('back.r.02.rearwards')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.03')</synId>
+            <wnDef>in or to or toward an original condition</wnDef>
+            <lemma>Lemma('back.r.03.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.04')</synId>
+            <wnDef>in or to or toward a past time</wnDef>
+            <lemma>Lemma('back.r.04.back')</lemma>
+            <lemma>Lemma('back.r.04.backward')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.05')</synId>
+            <wnDef>in reply</wnDef>
+            <lemma>Lemma('back.r.05.back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('back.r.06')</synId>
+            <wnDef>in repayment or retaliation</wnDef>
+            <lemma>Lemma('back.r.06.back')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>become</w>
+        <synsetCount>4</synsetCount>
+        <synset>
+            <synId>Synset('become.v.01')</synId>
+            <wnDef>enter or assume a certain state or condition</wnDef>
+            <lemma>Lemma('become.v.01.become')</lemma>
+            <lemma>Lemma('become.v.01.go')</lemma>
+            <lemma>Lemma('become.v.01.get')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('become.v.02')</synId>
+            <wnDef>undergo a change or development</wnDef>
+            <lemma>Lemma('become.v.02.become')</lemma>
+            <lemma>Lemma('become.v.02.turn')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('become.v.03')</synId>
+            <wnDef>come into existence</wnDef>
+            <lemma>Lemma('become.v.03.become')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('become.v.04')</synId>
+            <wnDef>enhance the appearance of</wnDef>
+            <lemma>Lemma('become.v.04.become')</lemma>
+            <lemma>Lemma('become.v.04.suit')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>better</w>
+        <synsetCount>50</synsetCount>
+        <synset>
+            <synId>Synset('better.n.01')</synId>
+            <wnDef>something superior in quality or condition or effect</wnDef>
+            <lemma>Lemma('better.n.01.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('bettor.n.01')</synId>
+            <wnDef>someone who bets</wnDef>
+            <lemma>Lemma('bettor.n.01.bettor')</lemma>
+            <lemma>Lemma('bettor.n.01.better')</lemma>
+            <lemma>Lemma('bettor.n.01.wagerer')</lemma>
+            <lemma>Lemma('bettor.n.01.punter')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.n.03')</synId>
+            <wnDef>a superior person having claim to precedence</wnDef>
+            <lemma>Lemma('better.n.03.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.n.04')</synId>
+            <wnDef>the superior one of two alternatives</wnDef>
+            <lemma>Lemma('better.n.04.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.v.01')</synId>
+            <wnDef>surpass in excellence</wnDef>
+            <lemma>Lemma('better.v.01.better')</lemma>
+            <lemma>Lemma('better.v.01.break')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.v.02')</synId>
+            <wnDef>to make better</wnDef>
+            <lemma>Lemma('better.v.02.better')</lemma>
+            <lemma>Lemma('better.v.02.improve')</lemma>
+            <lemma>Lemma('better.v.02.amend')</lemma>
+            <lemma>Lemma('better.v.02.ameliorate')</lemma>
+            <lemma>Lemma('better.v.02.meliorate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.v.03')</synId>
+            <wnDef>get better</wnDef>
+            <lemma>Lemma('better.v.03.better')</lemma>
+            <lemma>Lemma('better.v.03.improve')</lemma>
+            <lemma>Lemma('better.v.03.ameliorate')</lemma>
+            <lemma>Lemma('better.v.03.meliorate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.a.01')</synId>
+            <wnDef>(comparative of `good') superior to another (of the same class or set or kind) in
+                excellence or quality or desirability or suitability; more highly skilled than
+                another</wnDef>
+            <lemma>Lemma('better.a.01.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.a.02')</synId>
+            <wnDef>(comparative of `good') changed for the better in health or fitness</wnDef>
+            <lemma>Lemma('better.a.02.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.s.03')</synId>
+            <wnDef>(comparative and superlative of `well') wiser or more advantageous and hence
+                advisable</wnDef>
+            <lemma>Lemma('better.s.03.better')</lemma>
+            <lemma>Lemma('better.s.03.best')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.s.04')</synId>
+            <wnDef>more than half</wnDef>
+            <lemma>Lemma('better.s.04.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.a.01')</synId>
+            <wnDef>having desirable or positive qualities especially those suitable for a thing
+                specified</wnDef>
+            <lemma>Lemma('good.a.01.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('full.s.06')</synId>
+            <wnDef>having the normally expected amount</wnDef>
+            <lemma>Lemma('full.s.06.full')</lemma>
+            <lemma>Lemma('full.s.06.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.a.03')</synId>
+            <wnDef>morally admirable</wnDef>
+            <lemma>Lemma('good.a.03.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('estimable.s.02')</synId>
+            <wnDef>deserving of esteem and respect</wnDef>
+            <lemma>Lemma('estimable.s.02.estimable')</lemma>
+            <lemma>Lemma('estimable.s.02.good')</lemma>
+            <lemma>Lemma('estimable.s.02.honorable')</lemma>
+            <lemma>Lemma('estimable.s.02.respectable')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('beneficial.s.01')</synId>
+            <wnDef>promoting or enhancing well-being</wnDef>
+            <lemma>Lemma('beneficial.s.01.beneficial')</lemma>
+            <lemma>Lemma('beneficial.s.01.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.06')</synId>
+            <wnDef>agreeable or pleasing</wnDef>
+            <lemma>Lemma('good.s.06.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.07')</synId>
+            <wnDef>of moral excellence</wnDef>
+            <lemma>Lemma('good.s.07.good')</lemma>
+            <lemma>Lemma('good.s.07.just')</lemma>
+            <lemma>Lemma('good.s.07.upright')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('adept.s.01')</synId>
+            <wnDef>having or showing knowledge and skill and aptitude</wnDef>
+            <lemma>Lemma('adept.s.01.adept')</lemma>
+            <lemma>Lemma('adept.s.01.expert')</lemma>
+            <lemma>Lemma('adept.s.01.good')</lemma>
+            <lemma>Lemma('adept.s.01.practiced')</lemma>
+            <lemma>Lemma('adept.s.01.proficient')</lemma>
+            <lemma>Lemma('adept.s.01.skillful')</lemma>
+            <lemma>Lemma('adept.s.01.skilful')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.09')</synId>
+            <wnDef>thorough</wnDef>
+            <lemma>Lemma('good.s.09.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('dear.s.02')</synId>
+            <wnDef>with or in a close or intimate relationship</wnDef>
+            <lemma>Lemma('dear.s.02.dear')</lemma>
+            <lemma>Lemma('dear.s.02.good')</lemma>
+            <lemma>Lemma('dear.s.02.near')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('dependable.s.04')</synId>
+            <wnDef>financially sound</wnDef>
+            <lemma>Lemma('dependable.s.04.dependable')</lemma>
+            <lemma>Lemma('dependable.s.04.good')</lemma>
+            <lemma>Lemma('dependable.s.04.safe')</lemma>
+            <lemma>Lemma('dependable.s.04.secure')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.12')</synId>
+            <wnDef>most suitable or right for a particular purpose</wnDef>
+            <lemma>Lemma('good.s.12.good')</lemma>
+            <lemma>Lemma('good.s.12.right')</lemma>
+            <lemma>Lemma('good.s.12.ripe')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.13')</synId>
+            <wnDef>resulting favorably</wnDef>
+            <lemma>Lemma('good.s.13.good')</lemma>
+            <lemma>Lemma('good.s.13.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('effective.s.04')</synId>
+            <wnDef>exerting force or influence</wnDef>
+            <lemma>Lemma('effective.s.04.effective')</lemma>
+            <lemma>Lemma('effective.s.04.good')</lemma>
+            <lemma>Lemma('effective.s.04.in_effect')</lemma>
+            <lemma>Lemma('effective.s.04.in_force')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.15')</synId>
+            <wnDef>capable of pleasing</wnDef>
+            <lemma>Lemma('good.s.15.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.16')</synId>
+            <wnDef>appealing to the mind</wnDef>
+            <lemma>Lemma('good.s.16.good')</lemma>
+            <lemma>Lemma('good.s.16.serious')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.17')</synId>
+            <wnDef>in excellent physical condition</wnDef>
+            <lemma>Lemma('good.s.17.good')</lemma>
+            <lemma>Lemma('good.s.17.sound')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.18')</synId>
+            <wnDef>tending to promote physical well-being; beneficial to health</wnDef>
+            <lemma>Lemma('good.s.18.good')</lemma>
+            <lemma>Lemma('good.s.18.salutary')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.19')</synId>
+            <wnDef>not forged</wnDef>
+            <lemma>Lemma('good.s.19.good')</lemma>
+            <lemma>Lemma('good.s.19.honest')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.20')</synId>
+            <wnDef>not left to spoil</wnDef>
+            <lemma>Lemma('good.s.20.good')</lemma>
+            <lemma>Lemma('good.s.20.undecomposed')</lemma>
+            <lemma>Lemma('good.s.20.unspoiled')</lemma>
+            <lemma>Lemma('good.s.20.unspoilt')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.21')</synId>
+            <wnDef>generally admired</wnDef>
+            <lemma>Lemma('good.s.21.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.a.01')</synId>
+            <wnDef>in good health especially after having suffered illness or injury; at least I
+                feel well"</wnDef>
+            <lemma>Lemma('well.a.01.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('good.s.13')</synId>
+            <wnDef>resulting favorably</wnDef>
+            <lemma>Lemma('good.s.13.good')</lemma>
+            <lemma>Lemma('good.s.13.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.s.03')</synId>
+            <wnDef>wise or advantageous and hence advisable</wnDef>
+            <lemma>Lemma('well.s.03.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.r.01')</synId>
+            <wnDef>comparative of `well'; in a better or more excellent manner or more
+                advantageously or attractively or to a greater degree etc.</wnDef>
+            <lemma>Lemma('better.r.01.better')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('better.r.02')</synId>
+            <wnDef>from a position of superiority or authority</wnDef>
+            <lemma>Lemma('better.r.02.better')</lemma>
+            <lemma>Lemma('better.r.02.best')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.01')</synId>
+            <wnDef>(often used as a combining form) in a good or proper or satisfactory manner or to
+                a high standard (`good' is a nonstandard dialectal variant for `well')</wnDef>
+            <lemma>Lemma('well.r.01.well')</lemma>
+            <lemma>Lemma('well.r.01.good')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.02')</synId>
+            <wnDef>thoroughly or completely; fully; often used as a combining form</wnDef>
+            <lemma>Lemma('well.r.02.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.03')</synId>
+            <wnDef>indicating high probability; in all likelihood</wnDef>
+            <lemma>Lemma('well.r.03.well')</lemma>
+            <lemma>Lemma('well.r.03.easily')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.04')</synId>
+            <wnDef>(used for emphasis or as an intensifier) entirely or fully</wnDef>
+            <lemma>Lemma('well.r.04.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.05')</synId>
+            <wnDef>to a suitable or appropriate extent or degree</wnDef>
+            <lemma>Lemma('well.r.05.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.06')</synId>
+            <wnDef>favorably; with approval</wnDef>
+            <lemma>Lemma('well.r.06.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.07')</synId>
+            <wnDef>to a great extent or degree</wnDef>
+            <lemma>Lemma('well.r.07.well')</lemma>
+            <lemma>Lemma('well.r.07.considerably')</lemma>
+            <lemma>Lemma('well.r.07.substantially')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.08')</synId>
+            <wnDef>with great or especially intimate knowledge</wnDef>
+            <lemma>Lemma('well.r.08.well')</lemma>
+            <lemma>Lemma('well.r.08.intimately')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.09')</synId>
+            <wnDef>with prudence or propriety</wnDef>
+            <lemma>Lemma('well.r.09.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.10')</synId>
+            <wnDef>with skill or in a pleasing manner</wnDef>
+            <lemma>Lemma('well.r.10.well')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.11')</synId>
+            <wnDef>in a manner affording benefit or advantage</wnDef>
+            <lemma>Lemma('well.r.11.well')</lemma>
+            <lemma>Lemma('well.r.11.advantageously')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.12')</synId>
+            <wnDef>in financial comfort</wnDef>
+            <lemma>Lemma('well.r.12.well')</lemma>
+            <lemma>Lemma('well.r.12.comfortably')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('well.r.13')</synId>
+            <wnDef>without unusual distress or resentment; with good humor</wnDef>
+            <lemma>Lemma('well.r.13.well')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>come</w>
+        <synsetCount>22</synsetCount>
+        <synset>
+            <synId>Synset('semen.n.01')</synId>
+            <wnDef>the thick white fluid containing spermatozoa that is ejaculated by the male
+                genital tract</wnDef>
+            <lemma>Lemma('semen.n.01.semen')</lemma>
+            <lemma>Lemma('semen.n.01.seed')</lemma>
+            <lemma>Lemma('semen.n.01.seminal_fluid')</lemma>
+            <lemma>Lemma('semen.n.01.ejaculate')</lemma>
+            <lemma>Lemma('semen.n.01.cum')</lemma>
+            <lemma>Lemma('semen.n.01.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.01')</synId>
+            <wnDef>move toward, travel toward something or somebody or approach something or
+                somebody</wnDef>
+            <lemma>Lemma('come.v.01.come')</lemma>
+            <lemma>Lemma('come.v.01.come_up')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('arrive.v.01')</synId>
+            <wnDef>reach a destination; arrive by movement or progress</wnDef>
+            <lemma>Lemma('arrive.v.01.arrive')</lemma>
+            <lemma>Lemma('arrive.v.01.get')</lemma>
+            <lemma>Lemma('arrive.v.01.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.03')</synId>
+            <wnDef>come to pass; arrive, as in due course</wnDef>
+            <lemma>Lemma('come.v.03.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.04')</synId>
+            <wnDef>reach or enter a state, relation, condition, use, or position</wnDef>
+            <lemma>Lemma('come.v.04.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.05')</synId>
+            <wnDef>to be the product or result</wnDef>
+            <lemma>Lemma('come.v.05.come')</lemma>
+            <lemma>Lemma('come.v.05.follow')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.06')</synId>
+            <wnDef>be found or available; The furniture comes unassembled"</wnDef>
+            <lemma>Lemma('come.v.06.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('issue_forth.v.01')</synId>
+            <wnDef>come forth</wnDef>
+            <lemma>Lemma('issue_forth.v.01.issue_forth')</lemma>
+            <lemma>Lemma('issue_forth.v.01.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('hail.v.02')</synId>
+            <wnDef>be a native of</wnDef>
+            <lemma>Lemma('hail.v.02.hail')</lemma>
+            <lemma>Lemma('hail.v.02.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.09')</synId>
+            <wnDef>extend or reach</wnDef>
+            <lemma>Lemma('come.v.09.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.10')</synId>
+            <wnDef>exist or occur in a certain point in a series</wnDef>
+            <lemma>Lemma('come.v.10.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.11')</synId>
+            <wnDef>cover a certain distance</wnDef>
+            <lemma>Lemma('come.v.11.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('fall.v.04')</synId>
+            <wnDef>come under, be classified or included</wnDef>
+            <lemma>Lemma('fall.v.04.fall')</lemma>
+            <lemma>Lemma('fall.v.04.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.13')</synId>
+            <wnDef>happen as a result</wnDef>
+            <lemma>Lemma('come.v.13.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('total.v.01')</synId>
+            <wnDef>add up in number or quantity</wnDef>
+            <lemma>Lemma('total.v.01.total')</lemma>
+            <lemma>Lemma('total.v.01.number')</lemma>
+            <lemma>Lemma('total.v.01.add_up')</lemma>
+            <lemma>Lemma('total.v.01.come')</lemma>
+            <lemma>Lemma('total.v.01.amount')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.15')</synId>
+            <wnDef>develop into</wnDef>
+            <lemma>Lemma('come.v.15.come')</lemma>
+            <lemma>Lemma('come.v.15.add_up')</lemma>
+            <lemma>Lemma('come.v.15.amount')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.16')</synId>
+            <wnDef>be received</wnDef>
+            <lemma>Lemma('come.v.16.come')</lemma>
+            <lemma>Lemma('come.v.16.come_in')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('occur.v.02')</synId>
+            <wnDef>come to one's mind; suggest itself</wnDef>
+            <lemma>Lemma('occur.v.02.occur')</lemma>
+            <lemma>Lemma('occur.v.02.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('derive.v.05')</synId>
+            <wnDef>come from; be connected by a relationship of blood, for example</wnDef>
+            <lemma>Lemma('derive.v.05.derive')</lemma>
+            <lemma>Lemma('derive.v.05.come')</lemma>
+            <lemma>Lemma('derive.v.05.descend')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.04')</synId>
+            <wnDef>proceed or get along</wnDef>
+            <lemma>Lemma('do.v.04.do')</lemma>
+            <lemma>Lemma('do.v.04.fare')</lemma>
+            <lemma>Lemma('do.v.04.make_out')</lemma>
+            <lemma>Lemma('do.v.04.come')</lemma>
+            <lemma>Lemma('do.v.04.get_along')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.20')</synId>
+            <wnDef>experience orgasm</wnDef>
+            <lemma>Lemma('come.v.20.come')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('come.v.21')</synId>
+            <wnDef>have a certain priority</wnDef>
+            <lemma>Lemma('come.v.21.come')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>distinction</w>
+        <synsetCount>4</synsetCount>
+        <synset>
+            <synId>Synset('differentiation.n.01')</synId>
+            <wnDef>a discrimination between things as different and distinct</wnDef>
+            <lemma>Lemma('differentiation.n.01.differentiation')</lemma>
+            <lemma>Lemma('differentiation.n.01.distinction')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('eminence.n.01')</synId>
+            <wnDef>high status importance owing to marked superiority</wnDef>
+            <lemma>Lemma('eminence.n.01.eminence')</lemma>
+            <lemma>Lemma('eminence.n.01.distinction')</lemma>
+            <lemma>Lemma('eminence.n.01.preeminence')</lemma>
+            <lemma>Lemma('eminence.n.01.note')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('distinction.n.03')</synId>
+            <wnDef>a distinguishing quality</wnDef>
+            <lemma>Lemma('distinction.n.03.distinction')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('distinction.n.04')</synId>
+            <wnDef>a distinguishing difference</wnDef>
+            <lemma>Lemma('distinction.n.04.distinction')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>doing</w>
+        <synsetCount>13</synsetCount>
+        <synset>
+            <synId>Synset('make.v.01')</synId>
+            <wnDef>engage in</wnDef>
+            <lemma>Lemma('make.v.01.make')</lemma>
+            <lemma>Lemma('make.v.01.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('perform.v.01')</synId>
+            <wnDef>carry out or perform an action</wnDef>
+            <lemma>Lemma('perform.v.01.perform')</lemma>
+            <lemma>Lemma('perform.v.01.execute')</lemma>
+            <lemma>Lemma('perform.v.01.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.03')</synId>
+            <wnDef>get (something) done</wnDef>
+            <lemma>Lemma('do.v.03.do')</lemma>
+            <lemma>Lemma('do.v.03.perform')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.04')</synId>
+            <wnDef>proceed or get along</wnDef>
+            <lemma>Lemma('do.v.04.do')</lemma>
+            <lemma>Lemma('do.v.04.fare')</lemma>
+            <lemma>Lemma('do.v.04.make_out')</lemma>
+            <lemma>Lemma('do.v.04.come')</lemma>
+            <lemma>Lemma('do.v.04.get_along')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('cause.v.01')</synId>
+            <wnDef>give rise to; cause to happen or occur, not always intentionally</wnDef>
+            <lemma>Lemma('cause.v.01.cause')</lemma>
+            <lemma>Lemma('cause.v.01.do')</lemma>
+            <lemma>Lemma('cause.v.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('practice.v.01')</synId>
+            <wnDef>carry out or practice; as of jobs and professions</wnDef>
+            <lemma>Lemma('practice.v.01.practice')</lemma>
+            <lemma>Lemma('practice.v.01.practise')</lemma>
+            <lemma>Lemma('practice.v.01.exercise')</lemma>
+            <lemma>Lemma('practice.v.01.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('suffice.v.01')</synId>
+            <wnDef>be sufficient; be adequate, either in quality or quantity</wnDef>
+            <lemma>Lemma('suffice.v.01.suffice')</lemma>
+            <lemma>Lemma('suffice.v.01.do')</lemma>
+            <lemma>Lemma('suffice.v.01.answer')</lemma>
+            <lemma>Lemma('suffice.v.01.serve')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.08')</synId>
+            <wnDef>create or design, often in a certain way</wnDef>
+            <lemma>Lemma('do.v.08.do')</lemma>
+            <lemma>Lemma('do.v.08.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('act.v.02')</synId>
+            <wnDef>behave in a certain manner; show a certain behavior; conduct or comport
+                oneself</wnDef>
+            <lemma>Lemma('act.v.02.act')</lemma>
+            <lemma>Lemma('act.v.02.behave')</lemma>
+            <lemma>Lemma('act.v.02.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('serve.v.09')</synId>
+            <wnDef>spend time in prison or in a labor camp</wnDef>
+            <lemma>Lemma('serve.v.09.serve')</lemma>
+            <lemma>Lemma('serve.v.09.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.11')</synId>
+            <wnDef>carry on or function</wnDef>
+            <lemma>Lemma('do.v.11.do')</lemma>
+            <lemma>Lemma('do.v.11.manage')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('dress.v.16')</synId>
+            <wnDef>arrange attractively</wnDef>
+            <lemma>Lemma('dress.v.16.dress')</lemma>
+            <lemma>Lemma('dress.v.16.arrange')</lemma>
+            <lemma>Lemma('dress.v.16.set')</lemma>
+            <lemma>Lemma('dress.v.16.do')</lemma>
+            <lemma>Lemma('dress.v.16.coif')</lemma>
+            <lemma>Lemma('dress.v.16.coiffe')</lemma>
+            <lemma>Lemma('dress.v.16.coiffure')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.13')</synId>
+            <wnDef>travel or traverse (a distance)</wnDef>
+            <lemma>Lemma('do.v.13.do')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>else</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>ended</w>
+        <synsetCount>5</synsetCount>
+        <synset>
+            <synId>Synset('end.v.01')</synId>
+            <wnDef>have an end, in a temporal, spatial, or quantitative sense; either spatial or
+                metaphorical</wnDef>
+            <lemma>Lemma('end.v.01.end')</lemma>
+            <lemma>Lemma('end.v.01.stop')</lemma>
+            <lemma>Lemma('end.v.01.finish')</lemma>
+            <lemma>Lemma('end.v.01.terminate')</lemma>
+            <lemma>Lemma('end.v.01.cease')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('end.v.02')</synId>
+            <wnDef>bring to an end or halt</wnDef>
+            <lemma>Lemma('end.v.02.end')</lemma>
+            <lemma>Lemma('end.v.02.terminate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('end.v.03')</synId>
+            <wnDef>be the end of; be the last or concluding part of</wnDef>
+            <lemma>Lemma('end.v.03.end')</lemma>
+            <lemma>Lemma('end.v.03.terminate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('end.v.04')</synId>
+            <wnDef>put an end to</wnDef>
+            <lemma>Lemma('end.v.04.end')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('complete.s.05')</synId>
+            <wnDef>having come or been brought to a conclusion</wnDef>
+            <lemma>Lemma('complete.s.05.complete')</lemma>
+            <lemma>Lemma('complete.s.05.concluded')</lemma>
+            <lemma>Lemma('complete.s.05.ended')</lemma>
+            <lemma>Lemma('complete.s.05.over')</lemma>
+            <lemma>Lemma('complete.s.05.all_over')</lemma>
+            <lemma>Lemma('complete.s.05.terminated')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>father</w>
+        <synsetCount>9</synsetCount>
+        <synset>
+            <synId>Synset('father.n.01')</synId>
+            <wnDef>a male parent (also used as a term of address to your father)</wnDef>
+            <lemma>Lemma('father.n.01.father')</lemma>
+            <lemma>Lemma('father.n.01.male_parent')</lemma>
+            <lemma>Lemma('father.n.01.begetter')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('forefather.n.01')</synId>
+            <wnDef>the founder of a family</wnDef>
+            <lemma>Lemma('forefather.n.01.forefather')</lemma>
+            <lemma>Lemma('forefather.n.01.father')</lemma>
+            <lemma>Lemma('forefather.n.01.sire')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('father.n.03')</synId>
+            <wnDef>`Father' is a term of address for priests in some churches (especially the Roman
+                Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the
+                military</wnDef>
+            <lemma>Lemma('father.n.03.Father')</lemma>
+            <lemma>Lemma('father.n.03.Padre')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('church_father.n.01')</synId>
+            <wnDef>(Christianity) any of about 70 theologians in the period from the 2nd to the 7th
+                century whose writing established and confirmed official church doctrine; in the
+                Roman Catholic Church some were later declared saints and became Doctor of the
+                Church; the best known Latin Church Fathers are Ambrose, Augustine, Gregory the
+                Great, and Jerome; those who wrote in Greek include Athanasius, Basil, Gregory
+                Nazianzen, and John Chrysostom</wnDef>
+            <lemma>Lemma('church_father.n.01.Church_Father')</lemma>
+            <lemma>Lemma('church_father.n.01.Father_of_the_Church')</lemma>
+            <lemma>Lemma('church_father.n.01.Father')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('father.n.05')</synId>
+            <wnDef>a person who holds an important or distinguished position in some
+                organization</wnDef>
+            <lemma>Lemma('father.n.05.father')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('father.n.06')</synId>
+            <wnDef>God when considered as the first person in the Trinity</wnDef>
+            <lemma>Lemma('father.n.06.Father')</lemma>
+            <lemma>Lemma('father.n.06.Father-God')</lemma>
+            <lemma>Lemma('father.n.06.Fatherhood')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('founder.n.02')</synId>
+            <wnDef>a person who founds or establishes some institution</wnDef>
+            <lemma>Lemma('founder.n.02.founder')</lemma>
+            <lemma>Lemma('founder.n.02.beginner')</lemma>
+            <lemma>Lemma('founder.n.02.founding_father')</lemma>
+            <lemma>Lemma('founder.n.02.father')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('don.n.03')</synId>
+            <wnDef>the head of an organized crime family</wnDef>
+            <lemma>Lemma('don.n.03.don')</lemma>
+            <lemma>Lemma('don.n.03.father')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('beget.v.01')</synId>
+            <wnDef>make children</wnDef>
+            <lemma>Lemma('beget.v.01.beget')</lemma>
+            <lemma>Lemma('beget.v.01.get')</lemma>
+            <lemma>Lemma('beget.v.01.engender')</lemma>
+            <lemma>Lemma('beget.v.01.father')</lemma>
+            <lemma>Lemma('beget.v.01.mother')</lemma>
+            <lemma>Lemma('beget.v.01.sire')</lemma>
+            <lemma>Lemma('beget.v.01.generate')</lemma>
+            <lemma>Lemma('beget.v.01.bring_forth')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>from</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>has</w>
+        <synsetCount>20</synsetCount>
+        <synset>
+            <synId>Synset('hour_angle.n.02')</synId>
+            <wnDef>(astronomy) the angular distance of a celestial point measured westward along the
+                celestial equator from the zenith crossing; the right ascension for an observer at a
+                particular location and time of day</wnDef>
+            <lemma>Lemma('hour_angle.n.02.hour_angle')</lemma>
+            <lemma>Lemma('hour_angle.n.02.HA')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.01')</synId>
+            <wnDef>have or possess, either in a concrete or an abstract sense</wnDef>
+            <lemma>Lemma('have.v.01.have')</lemma>
+            <lemma>Lemma('have.v.01.have_got')</lemma>
+            <lemma>Lemma('have.v.01.hold')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.02')</synId>
+            <wnDef>have as a feature</wnDef>
+            <lemma>Lemma('have.v.02.have')</lemma>
+            <lemma>Lemma('have.v.02.feature')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('experience.v.03')</synId>
+            <wnDef>go through (mental or physical states or experiences)</wnDef>
+            <lemma>Lemma('experience.v.03.experience')</lemma>
+            <lemma>Lemma('experience.v.03.receive')</lemma>
+            <lemma>Lemma('experience.v.03.have')</lemma>
+            <lemma>Lemma('experience.v.03.get')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('own.v.01')</synId>
+            <wnDef>have ownership or possession of</wnDef>
+            <lemma>Lemma('own.v.01.own')</lemma>
+            <lemma>Lemma('own.v.01.have')</lemma>
+            <lemma>Lemma('own.v.01.possess')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('get.v.03')</synId>
+            <wnDef>cause to move; cause to be in a certain position or condition</wnDef>
+            <lemma>Lemma('get.v.03.get')</lemma>
+            <lemma>Lemma('get.v.03.let')</lemma>
+            <lemma>Lemma('get.v.03.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('consume.v.02')</synId>
+            <wnDef>serve oneself to, or consume regularly</wnDef>
+            <lemma>Lemma('consume.v.02.consume')</lemma>
+            <lemma>Lemma('consume.v.02.ingest')</lemma>
+            <lemma>Lemma('consume.v.02.take_in')</lemma>
+            <lemma>Lemma('consume.v.02.take')</lemma>
+            <lemma>Lemma('consume.v.02.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.07')</synId>
+            <wnDef>have a personal or business relationship with someone</wnDef>
+            <lemma>Lemma('have.v.07.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('hold.v.03')</synId>
+            <wnDef>organize or be responsible for</wnDef>
+            <lemma>Lemma('hold.v.03.hold')</lemma>
+            <lemma>Lemma('hold.v.03.throw')</lemma>
+            <lemma>Lemma('hold.v.03.have')</lemma>
+            <lemma>Lemma('hold.v.03.make')</lemma>
+            <lemma>Lemma('hold.v.03.give')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.09')</synId>
+            <wnDef>have left</wnDef>
+            <lemma>Lemma('have.v.09.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.10')</synId>
+            <wnDef>be confronted with</wnDef>
+            <lemma>Lemma('have.v.10.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.11')</synId>
+            <wnDef>undergo</wnDef>
+            <lemma>Lemma('have.v.11.have')</lemma>
+            <lemma>Lemma('have.v.11.experience')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.12')</synId>
+            <wnDef>suffer from; be ill with</wnDef>
+            <lemma>Lemma('have.v.12.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('induce.v.02')</synId>
+            <wnDef>cause to do; cause to act in a specified manner</wnDef>
+            <lemma>Lemma('induce.v.02.induce')</lemma>
+            <lemma>Lemma('induce.v.02.stimulate')</lemma>
+            <lemma>Lemma('induce.v.02.cause')</lemma>
+            <lemma>Lemma('induce.v.02.have')</lemma>
+            <lemma>Lemma('induce.v.02.get')</lemma>
+            <lemma>Lemma('induce.v.02.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('accept.v.02')</synId>
+            <wnDef>receive willingly something given or offered</wnDef>
+            <lemma>Lemma('accept.v.02.accept')</lemma>
+            <lemma>Lemma('accept.v.02.take')</lemma>
+            <lemma>Lemma('accept.v.02.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('receive.v.01')</synId>
+            <wnDef>get something; come into possession of</wnDef>
+            <lemma>Lemma('receive.v.01.receive')</lemma>
+            <lemma>Lemma('receive.v.01.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('suffer.v.02')</synId>
+            <wnDef>undergo (as of injuries and illnesses)</wnDef>
+            <lemma>Lemma('suffer.v.02.suffer')</lemma>
+            <lemma>Lemma('suffer.v.02.sustain')</lemma>
+            <lemma>Lemma('suffer.v.02.have')</lemma>
+            <lemma>Lemma('suffer.v.02.get')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.17')</synId>
+            <wnDef>achieve a point or goal</wnDef>
+            <lemma>Lemma('have.v.17.have')</lemma>
+            <lemma>Lemma('have.v.17.get')</lemma>
+            <lemma>Lemma('have.v.17.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('give_birth.v.01')</synId>
+            <wnDef>cause to be born</wnDef>
+            <lemma>Lemma('give_birth.v.01.give_birth')</lemma>
+            <lemma>Lemma('give_birth.v.01.deliver')</lemma>
+            <lemma>Lemma('give_birth.v.01.bear')</lemma>
+            <lemma>Lemma('give_birth.v.01.birth')</lemma>
+            <lemma>Lemma('give_birth.v.01.have')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('take.v.35')</synId>
+            <wnDef>have sex with; archaic use</wnDef>
+            <lemma>Lemma('take.v.35.take')</lemma>
+            <lemma>Lemma('take.v.35.have')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>helping</w>
+        <synsetCount>9</synsetCount>
+        <synset>
+            <synId>Synset('helping.n.01')</synId>
+            <wnDef>an individual quantity of food or drink taken as part of a meal</wnDef>
+            <lemma>Lemma('helping.n.01.helping')</lemma>
+            <lemma>Lemma('helping.n.01.portion')</lemma>
+            <lemma>Lemma('helping.n.01.serving')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help.v.01')</synId>
+            <wnDef>give help or assistance; be of service</wnDef>
+            <lemma>Lemma('help.v.01.help')</lemma>
+            <lemma>Lemma('help.v.01.assist')</lemma>
+            <lemma>Lemma('help.v.01.aid')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help.v.02')</synId>
+            <wnDef>improve the condition of</wnDef>
+            <lemma>Lemma('help.v.02.help')</lemma>
+            <lemma>Lemma('help.v.02.aid')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help.v.03')</synId>
+            <wnDef>be of use</wnDef>
+            <lemma>Lemma('help.v.03.help')</lemma>
+            <lemma>Lemma('help.v.03.facilitate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help_oneself.v.01')</synId>
+            <wnDef>abstain from doing; always used with a negative</wnDef>
+            <lemma>Lemma('help_oneself.v.01.help_oneself')</lemma>
+            <lemma>Lemma('help_oneself.v.01.help')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('serve.v.05')</synId>
+            <wnDef>help to some food; help with food or drink</wnDef>
+            <lemma>Lemma('serve.v.05.serve')</lemma>
+            <lemma>Lemma('serve.v.05.help')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help.v.06')</synId>
+            <wnDef>contribute to the furtherance of</wnDef>
+            <lemma>Lemma('help.v.06.help')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('avail.v.03')</synId>
+            <wnDef>take or use</wnDef>
+            <lemma>Lemma('avail.v.03.avail')</lemma>
+            <lemma>Lemma('avail.v.03.help')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('help.v.08')</synId>
+            <wnDef>improve; change for the better</wnDef>
+            <lemma>Lemma('help.v.08.help')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>inside</w>
+        <synsetCount>10</synsetCount>
+        <synset>
+            <synId>Synset('inside.n.01')</synId>
+            <wnDef>the region that is inside of something</wnDef>
+            <lemma>Lemma('inside.n.01.inside')</lemma>
+            <lemma>Lemma('inside.n.01.interior')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.n.02')</synId>
+            <wnDef>the inner or enclosed surface of something</wnDef>
+            <lemma>Lemma('inside.n.02.inside')</lemma>
+            <lemma>Lemma('inside.n.02.interior')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.a.01')</synId>
+            <wnDef>relating to or being on the side closer to the center or within a defined
+                space</wnDef>
+            <lemma>Lemma('inside.a.01.inside')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.s.02')</synId>
+            <wnDef>being or applying to the inside of a building</wnDef>
+            <lemma>Lemma('inside.s.02.inside')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.s.03')</synId>
+            <wnDef>confined to an exclusive group</wnDef>
+            <lemma>Lemma('inside.s.03.inside')</lemma>
+            <lemma>Lemma('inside.s.03.inner')</lemma>
+            <lemma>Lemma('inside.s.03.privileged')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.s.04')</synId>
+            <wnDef>away from the outer edge</wnDef>
+            <lemma>Lemma('inside.s.04.inside')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.r.01')</synId>
+            <wnDef>within a building</wnDef>
+            <lemma>Lemma('inside.r.01.inside')</lemma>
+            <lemma>Lemma('inside.r.01.indoors')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inside.r.02')</synId>
+            <wnDef>on the inside</wnDef>
+            <lemma>Lemma('inside.r.02.inside')</lemma>
+            <lemma>Lemma('inside.r.02.within')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inwardly.r.01')</synId>
+            <wnDef>with respect to private feelings</wnDef>
+            <lemma>Lemma('inwardly.r.01.inwardly')</lemma>
+            <lemma>Lemma('inwardly.r.01.inside')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('at_heart.r.01')</synId>
+            <wnDef>in reality</wnDef>
+            <lemma>Lemma('at_heart.r.01.at_heart')</lemma>
+            <lemma>Lemma('at_heart.r.01.at_bottom')</lemma>
+            <lemma>Lemma('at_heart.r.01.deep_down')</lemma>
+            <lemma>Lemma('at_heart.r.01.inside')</lemma>
+            <lemma>Lemma('at_heart.r.01.in_spite_of_appearance')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>knew</w>
+        <synsetCount>11</synsetCount>
+        <synset>
+            <synId>Synset('know.v.01')</synId>
+            <wnDef>be cognizant or aware of a fact or a specific piece of information; possess
+                knowledge or information about</wnDef>
+            <lemma>Lemma('know.v.01.know')</lemma>
+            <lemma>Lemma('know.v.01.cognize')</lemma>
+            <lemma>Lemma('know.v.01.cognise')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.02')</synId>
+            <wnDef>know how to do or perform something</wnDef>
+            <lemma>Lemma('know.v.02.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.03')</synId>
+            <wnDef>be aware of the truth of something; have a belief or faith in something; regard
+                as true beyond any doubt</wnDef>
+            <lemma>Lemma('know.v.03.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.04')</synId>
+            <wnDef>be familiar or acquainted with a person or an object</wnDef>
+            <lemma>Lemma('know.v.04.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.05')</synId>
+            <wnDef>have firsthand knowledge of states, situations, emotions, or sensations</wnDef>
+            <lemma>Lemma('know.v.05.know')</lemma>
+            <lemma>Lemma('know.v.05.experience')</lemma>
+            <lemma>Lemma('know.v.05.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('acknowledge.v.06')</synId>
+            <wnDef>accept (someone) to be what is claimed or accept his power and authority</wnDef>
+            <lemma>Lemma('acknowledge.v.06.acknowledge')</lemma>
+            <lemma>Lemma('acknowledge.v.06.recognize')</lemma>
+            <lemma>Lemma('acknowledge.v.06.recognise')</lemma>
+            <lemma>Lemma('acknowledge.v.06.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.07')</synId>
+            <wnDef>have fixed in the mind</wnDef>
+            <lemma>Lemma('know.v.07.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('sleep_together.v.01')</synId>
+            <wnDef>have sexual intercourse with</wnDef>
+            <lemma>Lemma('sleep_together.v.01.sleep_together')</lemma>
+            <lemma>Lemma('sleep_together.v.01.roll_in_the_hay')</lemma>
+            <lemma>Lemma('sleep_together.v.01.love')</lemma>
+            <lemma>Lemma('sleep_together.v.01.make_out')</lemma>
+            <lemma>Lemma('sleep_together.v.01.make_love')</lemma>
+            <lemma>Lemma('sleep_together.v.01.sleep_with')</lemma>
+            <lemma>Lemma('sleep_together.v.01.get_laid')</lemma>
+            <lemma>Lemma('sleep_together.v.01.have_sex')</lemma>
+            <lemma>Lemma('sleep_together.v.01.know')</lemma>
+            <lemma>Lemma('sleep_together.v.01.do_it')</lemma>
+            <lemma>Lemma('sleep_together.v.01.be_intimate')</lemma>
+            <lemma>Lemma('sleep_together.v.01.have_intercourse')</lemma>
+            <lemma>Lemma('sleep_together.v.01.have_it_away')</lemma>
+            <lemma>Lemma('sleep_together.v.01.have_it_off')</lemma>
+            <lemma>Lemma('sleep_together.v.01.screw')</lemma>
+            <lemma>Lemma('sleep_together.v.01.fuck')</lemma>
+            <lemma>Lemma('sleep_together.v.01.jazz')</lemma>
+            <lemma>Lemma('sleep_together.v.01.eff')</lemma>
+            <lemma>Lemma('sleep_together.v.01.hump')</lemma>
+            <lemma>Lemma('sleep_together.v.01.lie_with')</lemma>
+            <lemma>Lemma('sleep_together.v.01.bed')</lemma>
+            <lemma>Lemma('sleep_together.v.01.have_a_go_at_it')</lemma>
+            <lemma>Lemma('sleep_together.v.01.bang')</lemma>
+            <lemma>Lemma('sleep_together.v.01.get_it_on')</lemma>
+            <lemma>Lemma('sleep_together.v.01.bonk')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.09')</synId>
+            <wnDef>know the nature or character of</wnDef>
+            <lemma>Lemma('know.v.09.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.10')</synId>
+            <wnDef>be able to distinguish, recognize as being different</wnDef>
+            <lemma>Lemma('know.v.10.know')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.11')</synId>
+            <wnDef>perceive as familiar</wnDef>
+            <lemma>Lemma('know.v.11.know')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>later</w>
+        <synsetCount>12</synsetCount>
+        <synset>
+            <synId>Synset('later.s.01')</synId>
+            <wnDef>coming at a subsequent time or stage</wnDef>
+            <lemma>Lemma('later.s.01.later')</lemma>
+            <lemma>Lemma('later.s.01.ulterior')</lemma>
+            <lemma>Lemma('later.s.01.posterior')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.a.06')</synId>
+            <wnDef>at or toward an end or late period or stage of development</wnDef>
+            <lemma>Lemma('late.a.06.late')</lemma>
+            <lemma>Lemma('late.a.06.later')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.a.01')</synId>
+            <wnDef>being or occurring at an advanced period of time or after a usual or expected
+                time</wnDef>
+            <lemma>Lemma('late.a.01.late')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('belated.s.01')</synId>
+            <wnDef>after the expected or usual time; delayed</wnDef>
+            <lemma>Lemma('belated.s.01.belated')</lemma>
+            <lemma>Lemma('belated.s.01.late')</lemma>
+            <lemma>Lemma('belated.s.01.tardy')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.s.03')</synId>
+            <wnDef>of the immediate past or just previous to the present time</wnDef>
+            <lemma>Lemma('late.s.03.late')</lemma>
+            <lemma>Lemma('late.s.03.recent')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.s.04')</synId>
+            <wnDef>having died recently</wnDef>
+            <lemma>Lemma('late.s.04.late')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.a.05')</synId>
+            <wnDef>of a later stage in the development of a language or literature; used especially
+                of dead languages</wnDef>
+            <lemma>Lemma('late.a.05.late')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('late.a.06')</synId>
+            <wnDef>at or toward an end or late period or stage of development</wnDef>
+            <lemma>Lemma('late.a.06.late')</lemma>
+            <lemma>Lemma('late.a.06.later')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('former.s.03')</synId>
+            <wnDef>(used especially of persons) of the immediate past</wnDef>
+            <lemma>Lemma('former.s.03.former')</lemma>
+            <lemma>Lemma('former.s.03.late')</lemma>
+            <lemma>Lemma('former.s.03.previous')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('subsequently.r.01')</synId>
+            <wnDef>happening at a time subsequent to a reference time</wnDef>
+            <lemma>Lemma('subsequently.r.01.subsequently')</lemma>
+            <lemma>Lemma('subsequently.r.01.later')</lemma>
+            <lemma>Lemma('subsequently.r.01.afterwards')</lemma>
+            <lemma>Lemma('subsequently.r.01.afterward')</lemma>
+            <lemma>Lemma('subsequently.r.01.after')</lemma>
+            <lemma>Lemma('subsequently.r.01.later_on')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('by_and_by.r.01')</synId>
+            <wnDef>at some eventual time in the future</wnDef>
+            <lemma>Lemma('by_and_by.r.01.by_and_by')</lemma>
+            <lemma>Lemma('by_and_by.r.01.later')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('later.r.03')</synId>
+            <wnDef>comparative of the adverb `late'</wnDef>
+            <lemma>Lemma('later.r.03.later')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>learn</w>
+        <synsetCount>6</synsetCount>
+        <synset>
+            <synId>Synset('learn.v.01')</synId>
+            <wnDef>gain knowledge or skills</wnDef>
+            <lemma>Lemma('learn.v.01.learn')</lemma>
+            <lemma>Lemma('learn.v.01.larn')</lemma>
+            <lemma>Lemma('learn.v.01.acquire')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('learn.v.02')</synId>
+            <wnDef>get to know or become aware of, usually accidentally</wnDef>
+            <lemma>Lemma('learn.v.02.learn')</lemma>
+            <lemma>Lemma('learn.v.02.hear')</lemma>
+            <lemma>Lemma('learn.v.02.get_word')</lemma>
+            <lemma>Lemma('learn.v.02.get_wind')</lemma>
+            <lemma>Lemma('learn.v.02.pick_up')</lemma>
+            <lemma>Lemma('learn.v.02.find_out')</lemma>
+            <lemma>Lemma('learn.v.02.get_a_line')</lemma>
+            <lemma>Lemma('learn.v.02.discover')</lemma>
+            <lemma>Lemma('learn.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('memorize.v.01')</synId>
+            <wnDef>commit to memory; learn by heart</wnDef>
+            <lemma>Lemma('memorize.v.01.memorize')</lemma>
+            <lemma>Lemma('memorize.v.01.memorise')</lemma>
+            <lemma>Lemma('memorize.v.01.con')</lemma>
+            <lemma>Lemma('memorize.v.01.learn')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('learn.v.04')</synId>
+            <wnDef>be a student of a certain subject</wnDef>
+            <lemma>Lemma('learn.v.04.learn')</lemma>
+            <lemma>Lemma('learn.v.04.study')</lemma>
+            <lemma>Lemma('learn.v.04.read')</lemma>
+            <lemma>Lemma('learn.v.04.take')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('teach.v.01')</synId>
+            <wnDef>impart skills or knowledge to</wnDef>
+            <lemma>Lemma('teach.v.01.teach')</lemma>
+            <lemma>Lemma('teach.v.01.learn')</lemma>
+            <lemma>Lemma('teach.v.01.instruct')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('determine.v.08')</synId>
+            <wnDef>find out, learn, or determine with certainty, usually by making an inquiry or
+                other effort</wnDef>
+            <lemma>Lemma('determine.v.08.determine')</lemma>
+            <lemma>Lemma('determine.v.08.check')</lemma>
+            <lemma>Lemma('determine.v.08.find_out')</lemma>
+            <lemma>Lemma('determine.v.08.see')</lemma>
+            <lemma>Lemma('determine.v.08.ascertain')</lemma>
+            <lemma>Lemma('determine.v.08.watch')</lemma>
+            <lemma>Lemma('determine.v.08.learn')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>live</w>
+        <synsetCount>19</synsetCount>
+        <synset>
+            <synId>Synset('populate.v.01')</synId>
+            <wnDef>inhabit or live in; be an inhabitant of</wnDef>
+            <lemma>Lemma('populate.v.01.populate')</lemma>
+            <lemma>Lemma('populate.v.01.dwell')</lemma>
+            <lemma>Lemma('populate.v.01.live')</lemma>
+            <lemma>Lemma('populate.v.01.inhabit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.v.02')</synId>
+            <wnDef>lead a certain kind of life; live in a certain style</wnDef>
+            <lemma>Lemma('live.v.02.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('survive.v.01')</synId>
+            <wnDef>continue to live through hardship or adversity</wnDef>
+            <lemma>Lemma('survive.v.01.survive')</lemma>
+            <lemma>Lemma('survive.v.01.last')</lemma>
+            <lemma>Lemma('survive.v.01.live')</lemma>
+            <lemma>Lemma('survive.v.01.live_on')</lemma>
+            <lemma>Lemma('survive.v.01.go')</lemma>
+            <lemma>Lemma('survive.v.01.endure')</lemma>
+            <lemma>Lemma('survive.v.01.hold_up')</lemma>
+            <lemma>Lemma('survive.v.01.hold_out')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('exist.v.02')</synId>
+            <wnDef>support oneself</wnDef>
+            <lemma>Lemma('exist.v.02.exist')</lemma>
+            <lemma>Lemma('exist.v.02.survive')</lemma>
+            <lemma>Lemma('exist.v.02.live')</lemma>
+            <lemma>Lemma('exist.v.02.subsist')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('be.v.11')</synId>
+            <wnDef>have life, be alive</wnDef>
+            <lemma>Lemma('be.v.11.be')</lemma>
+            <lemma>Lemma('be.v.11.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('know.v.05')</synId>
+            <wnDef>have firsthand knowledge of states, situations, emotions, or sensations</wnDef>
+            <lemma>Lemma('know.v.05.know')</lemma>
+            <lemma>Lemma('know.v.05.experience')</lemma>
+            <lemma>Lemma('know.v.05.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.v.07')</synId>
+            <wnDef>pursue a positive and satisfying existence</wnDef>
+            <lemma>Lemma('live.v.07.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.a.01')</synId>
+            <wnDef>actually being performed at the time of hearing or viewing</wnDef>
+            <lemma>Lemma('live.a.01.live')</lemma>
+            <lemma>Lemma('live.a.01.unrecorded')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.a.02')</synId>
+            <wnDef>exerting force or containing energy</wnDef>
+            <lemma>Lemma('live.a.02.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('alive.a.01')</synId>
+            <wnDef>possessing life</wnDef>
+            <lemma>Lemma('alive.a.01.alive')</lemma>
+            <lemma>Lemma('alive.a.01.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.s.04')</synId>
+            <wnDef>highly reverberant</wnDef>
+            <lemma>Lemma('live.s.04.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.s.05')</synId>
+            <wnDef>charged with an explosive</wnDef>
+            <lemma>Lemma('live.s.05.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('bouncy.s.01')</synId>
+            <wnDef>elastic; rebounds readily</wnDef>
+            <lemma>Lemma('bouncy.s.01.bouncy')</lemma>
+            <lemma>Lemma('bouncy.s.01.live')</lemma>
+            <lemma>Lemma('bouncy.s.01.lively')</lemma>
+            <lemma>Lemma('bouncy.s.01.resilient')</lemma>
+            <lemma>Lemma('bouncy.s.01.springy')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.s.07')</synId>
+            <wnDef>abounding with life and energy</wnDef>
+            <lemma>Lemma('live.s.07.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.s.08')</synId>
+            <wnDef>in current use or ready for use</wnDef>
+            <lemma>Lemma('live.s.08.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.s.09')</synId>
+            <wnDef>of current relevance</wnDef>
+            <lemma>Lemma('live.s.09.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('hot.s.20')</synId>
+            <wnDef>charged or energized with electricity</wnDef>
+            <lemma>Lemma('hot.s.20.hot')</lemma>
+            <lemma>Lemma('hot.s.20.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('alive.s.07')</synId>
+            <wnDef>capable of erupting</wnDef>
+            <lemma>Lemma('alive.s.07.alive')</lemma>
+            <lemma>Lemma('alive.s.07.live')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('live.r.01')</synId>
+            <wnDef>not recorded</wnDef>
+            <lemma>Lemma('live.r.01.live')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>long</w>
+        <synsetCount>12</synsetCount>
+        <synset>
+            <synId>Synset('hanker.v.01')</synId>
+            <wnDef>desire strongly or persistently</wnDef>
+            <lemma>Lemma('hanker.v.01.hanker')</lemma>
+            <lemma>Lemma('hanker.v.01.long')</lemma>
+            <lemma>Lemma('hanker.v.01.yearn')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.a.01')</synId>
+            <wnDef>primarily temporal sense; being or indicating a relatively great or greater than
+                average duration or passage of time or a duration as specified</wnDef>
+            <lemma>Lemma('long.a.01.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.a.02')</synId>
+            <wnDef>primarily spatial sense; of relatively great or greater than average spatial
+                extension or extension as specified</wnDef>
+            <lemma>Lemma('long.a.02.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.s.03')</synId>
+            <wnDef>of relatively great height</wnDef>
+            <lemma>Lemma('long.s.03.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('retentive.a.01')</synId>
+            <wnDef>good at remembering</wnDef>
+            <lemma>Lemma('retentive.a.01.retentive')</lemma>
+            <lemma>Lemma('retentive.a.01.recollective')</lemma>
+            <lemma>Lemma('retentive.a.01.long')</lemma>
+            <lemma>Lemma('retentive.a.01.tenacious')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.a.05')</synId>
+            <wnDef>holding securities or commodities in expectation of a rise in prices</wnDef>
+            <lemma>Lemma('long.a.05.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.a.06')</synId>
+            <wnDef>(of speech sounds or syllables) of relatively long duration</wnDef>
+            <lemma>Lemma('long.a.06.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.s.07')</synId>
+            <wnDef>involving substantial risk</wnDef>
+            <lemma>Lemma('long.s.07.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('farseeing.s.02')</synId>
+            <wnDef>planning prudently for the future</wnDef>
+            <lemma>Lemma('farseeing.s.02.farseeing')</lemma>
+            <lemma>Lemma('farseeing.s.02.farsighted')</lemma>
+            <lemma>Lemma('farseeing.s.02.foresighted')</lemma>
+            <lemma>Lemma('farseeing.s.02.foresightful')</lemma>
+            <lemma>Lemma('farseeing.s.02.prospicient')</lemma>
+            <lemma>Lemma('farseeing.s.02.long')</lemma>
+            <lemma>Lemma('farseeing.s.02.longsighted')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.s.09')</synId>
+            <wnDef>having or being more than normal or necessary:"long on brains"</wnDef>
+            <lemma>Lemma('long.s.09.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.r.01')</synId>
+            <wnDef>for an extended time or at a distant time</wnDef>
+            <lemma>Lemma('long.r.01.long')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long.r.02')</synId>
+            <wnDef>for an extended distance</wnDef>
+            <lemma>Lemma('long.r.02.long')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>make</w>
+        <synsetCount>51</synsetCount>
+        <synset>
+            <synId>Synset('brand.n.02')</synId>
+            <wnDef>a recognizable kind</wnDef>
+            <lemma>Lemma('brand.n.02.brand')</lemma>
+            <lemma>Lemma('brand.n.02.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('shuffle.n.01')</synId>
+            <wnDef>the act of mixing cards haphazardly</wnDef>
+            <lemma>Lemma('shuffle.n.01.shuffle')</lemma>
+            <lemma>Lemma('shuffle.n.01.shuffling')</lemma>
+            <lemma>Lemma('shuffle.n.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.01')</synId>
+            <wnDef>engage in</wnDef>
+            <lemma>Lemma('make.v.01.make')</lemma>
+            <lemma>Lemma('make.v.01.do')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.02')</synId>
+            <wnDef>give certain properties to something</wnDef>
+            <lemma>Lemma('make.v.02.make')</lemma>
+            <lemma>Lemma('make.v.02.get')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.03')</synId>
+            <wnDef>make or cause to be or to become</wnDef>
+            <lemma>Lemma('make.v.03.make')</lemma>
+            <lemma>Lemma('make.v.03.create')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('induce.v.02')</synId>
+            <wnDef>cause to do; cause to act in a specified manner</wnDef>
+            <lemma>Lemma('induce.v.02.induce')</lemma>
+            <lemma>Lemma('induce.v.02.stimulate')</lemma>
+            <lemma>Lemma('induce.v.02.cause')</lemma>
+            <lemma>Lemma('induce.v.02.have')</lemma>
+            <lemma>Lemma('induce.v.02.get')</lemma>
+            <lemma>Lemma('induce.v.02.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('cause.v.01')</synId>
+            <wnDef>give rise to; cause to happen or occur, not always intentionally</wnDef>
+            <lemma>Lemma('cause.v.01.cause')</lemma>
+            <lemma>Lemma('cause.v.01.do')</lemma>
+            <lemma>Lemma('cause.v.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('produce.v.02')</synId>
+            <wnDef>create or manufacture a man-made product</wnDef>
+            <lemma>Lemma('produce.v.02.produce')</lemma>
+            <lemma>Lemma('produce.v.02.make')</lemma>
+            <lemma>Lemma('produce.v.02.create')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('draw.v.04')</synId>
+            <wnDef>make, formulate, or derive in the mind</wnDef>
+            <lemma>Lemma('draw.v.04.draw')</lemma>
+            <lemma>Lemma('draw.v.04.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.08')</synId>
+            <wnDef>compel or make somebody or something to act in a certain way</wnDef>
+            <lemma>Lemma('make.v.08.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('create.v.05')</synId>
+            <wnDef>create by artistic means</wnDef>
+            <lemma>Lemma('create.v.05.create')</lemma>
+            <lemma>Lemma('create.v.05.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('gain.v.08')</synId>
+            <wnDef>earn on some commercial or business transaction; earn as salary or wages</wnDef>
+            <lemma>Lemma('gain.v.08.gain')</lemma>
+            <lemma>Lemma('gain.v.08.take_in')</lemma>
+            <lemma>Lemma('gain.v.08.clear')</lemma>
+            <lemma>Lemma('gain.v.08.make')</lemma>
+            <lemma>Lemma('gain.v.08.earn')</lemma>
+            <lemma>Lemma('gain.v.08.realize')</lemma>
+            <lemma>Lemma('gain.v.08.realise')</lemma>
+            <lemma>Lemma('gain.v.08.pull_in')</lemma>
+            <lemma>Lemma('gain.v.08.bring_in')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('do.v.08')</synId>
+            <wnDef>create or design, often in a certain way</wnDef>
+            <lemma>Lemma('do.v.08.do')</lemma>
+            <lemma>Lemma('do.v.08.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('form.v.02')</synId>
+            <wnDef>to compose or represent:"This wall forms the background of the stage
+                setting"</wnDef>
+            <lemma>Lemma('form.v.02.form')</lemma>
+            <lemma>Lemma('form.v.02.constitute')</lemma>
+            <lemma>Lemma('form.v.02.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('reach.v.07')</synId>
+            <wnDef>reach a goal, e.g., "make the first team"</wnDef>
+            <lemma>Lemma('reach.v.07.reach')</lemma>
+            <lemma>Lemma('reach.v.07.make')</lemma>
+            <lemma>Lemma('reach.v.07.get_to')</lemma>
+            <lemma>Lemma('reach.v.07.progress_to')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.14')</synId>
+            <wnDef>be or be capable of being changed or made into</wnDef>
+            <lemma>Lemma('make.v.14.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.15')</synId>
+            <wnDef>make by shaping or bringing together constituents</wnDef>
+            <lemma>Lemma('make.v.15.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.16')</synId>
+            <wnDef>perform or carry out</wnDef>
+            <lemma>Lemma('make.v.16.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('construct.v.01')</synId>
+            <wnDef>make by combining materials and parts</wnDef>
+            <lemma>Lemma('construct.v.01.construct')</lemma>
+            <lemma>Lemma('construct.v.01.build')</lemma>
+            <lemma>Lemma('construct.v.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.18')</synId>
+            <wnDef>change from one form into another</wnDef>
+            <lemma>Lemma('make.v.18.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.19')</synId>
+            <wnDef>act in a certain way so as to acquire</wnDef>
+            <lemma>Lemma('make.v.19.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('name.v.03')</synId>
+            <wnDef>charge with a function; charge to be</wnDef>
+            <lemma>Lemma('name.v.03.name')</lemma>
+            <lemma>Lemma('name.v.03.nominate')</lemma>
+            <lemma>Lemma('name.v.03.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('have.v.17')</synId>
+            <wnDef>achieve a point or goal</wnDef>
+            <lemma>Lemma('have.v.17.have')</lemma>
+            <lemma>Lemma('have.v.17.get')</lemma>
+            <lemma>Lemma('have.v.17.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('reach.v.01')</synId>
+            <wnDef>reach a destination, either real or abstract</wnDef>
+            <lemma>Lemma('reach.v.01.reach')</lemma>
+            <lemma>Lemma('reach.v.01.make')</lemma>
+            <lemma>Lemma('reach.v.01.attain')</lemma>
+            <lemma>Lemma('reach.v.01.hit')</lemma>
+            <lemma>Lemma('reach.v.01.arrive_at')</lemma>
+            <lemma>Lemma('reach.v.01.gain')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('lay_down.v.01')</synId>
+            <wnDef>institute, enact, or establish</wnDef>
+            <lemma>Lemma('lay_down.v.01.lay_down')</lemma>
+            <lemma>Lemma('lay_down.v.01.establish')</lemma>
+            <lemma>Lemma('lay_down.v.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.24')</synId>
+            <wnDef>carry out or commit</wnDef>
+            <lemma>Lemma('make.v.24.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.25')</synId>
+            <wnDef>form by assembling individuals or constituents</wnDef>
+            <lemma>Lemma('make.v.25.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('hold.v.03')</synId>
+            <wnDef>organize or be responsible for</wnDef>
+            <lemma>Lemma('hold.v.03.hold')</lemma>
+            <lemma>Lemma('hold.v.03.throw')</lemma>
+            <lemma>Lemma('hold.v.03.have')</lemma>
+            <lemma>Lemma('hold.v.03.make')</lemma>
+            <lemma>Lemma('hold.v.03.give')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.27')</synId>
+            <wnDef>put in order or neaten</wnDef>
+            <lemma>Lemma('make.v.27.make')</lemma>
+            <lemma>Lemma('make.v.27.make_up')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('take.v.27')</synId>
+            <wnDef>head into a specified direction</wnDef>
+            <lemma>Lemma('take.v.27.take')</lemma>
+            <lemma>Lemma('take.v.27.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('stool.v.04')</synId>
+            <wnDef>have a bowel movement</wnDef>
+            <lemma>Lemma('stool.v.04.stool')</lemma>
+            <lemma>Lemma('stool.v.04.defecate')</lemma>
+            <lemma>Lemma('stool.v.04.shit')</lemma>
+            <lemma>Lemma('stool.v.04.take_a_shit')</lemma>
+            <lemma>Lemma('stool.v.04.take_a_crap')</lemma>
+            <lemma>Lemma('stool.v.04.ca-ca')</lemma>
+            <lemma>Lemma('stool.v.04.crap')</lemma>
+            <lemma>Lemma('stool.v.04.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.30')</synId>
+            <wnDef>undergo fabrication or creation</wnDef>
+            <lemma>Lemma('make.v.30.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.31')</synId>
+            <wnDef>be suitable for</wnDef>
+            <lemma>Lemma('make.v.31.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.32')</synId>
+            <wnDef>add up to</wnDef>
+            <lemma>Lemma('make.v.32.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.33')</synId>
+            <wnDef>amount to</wnDef>
+            <lemma>Lemma('make.v.33.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.34')</synId>
+            <wnDef>constitute the essence of</wnDef>
+            <lemma>Lemma('make.v.34.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.35')</synId>
+            <wnDef>appear to begin an activity</wnDef>
+            <lemma>Lemma('make.v.35.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.36')</synId>
+            <wnDef>proceed along a path</wnDef>
+            <lemma>Lemma('make.v.36.make')</lemma>
+            <lemma>Lemma('make.v.36.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.37')</synId>
+            <wnDef>reach in time</wnDef>
+            <lemma>Lemma('make.v.37.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.38')</synId>
+            <wnDef>gather and light the materials for</wnDef>
+            <lemma>Lemma('make.v.38.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('cook.v.02')</synId>
+            <wnDef>prepare for eating by applying heat</wnDef>
+            <lemma>Lemma('cook.v.02.cook')</lemma>
+            <lemma>Lemma('cook.v.02.fix')</lemma>
+            <lemma>Lemma('cook.v.02.ready')</lemma>
+            <lemma>Lemma('cook.v.02.make')</lemma>
+            <lemma>Lemma('cook.v.02.prepare')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('seduce.v.01')</synId>
+            <wnDef>induce to have sex</wnDef>
+            <lemma>Lemma('seduce.v.01.seduce')</lemma>
+            <lemma>Lemma('seduce.v.01.score')</lemma>
+            <lemma>Lemma('seduce.v.01.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.41')</synId>
+            <wnDef>assure the success of</wnDef>
+            <lemma>Lemma('make.v.41.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.42')</synId>
+            <wnDef>represent fictitiously, as in a play, or pretend to be or act like</wnDef>
+            <lemma>Lemma('make.v.42.make')</lemma>
+            <lemma>Lemma('make.v.42.pretend')</lemma>
+            <lemma>Lemma('make.v.42.make_believe')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.43')</synId>
+            <wnDef>consider as being</wnDef>
+            <lemma>Lemma('make.v.43.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.44')</synId>
+            <wnDef>calculate as being</wnDef>
+            <lemma>Lemma('make.v.44.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.45')</synId>
+            <wnDef>cause to be enjoyable or pleasurable</wnDef>
+            <lemma>Lemma('make.v.45.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.46')</synId>
+            <wnDef>favor the development of</wnDef>
+            <lemma>Lemma('make.v.46.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.47')</synId>
+            <wnDef>develop into</wnDef>
+            <lemma>Lemma('make.v.47.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.48')</synId>
+            <wnDef>behave in a certain way</wnDef>
+            <lemma>Lemma('make.v.48.make')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.49')</synId>
+            <wnDef>eliminate urine</wnDef>
+            <lemma>Lemma('make.v.49.make')</lemma>
+            <lemma>Lemma('make.v.49.urinate')</lemma>
+            <lemma>Lemma('make.v.49.piddle')</lemma>
+            <lemma>Lemma('make.v.49.puddle')</lemma>
+            <lemma>Lemma('make.v.49.micturate')</lemma>
+            <lemma>Lemma('make.v.49.piss')</lemma>
+            <lemma>Lemma('make.v.49.pee')</lemma>
+            <lemma>Lemma('make.v.49.pee-pee')</lemma>
+            <lemma>Lemma('make.v.49.make_water')</lemma>
+            <lemma>Lemma('make.v.49.relieve_oneself')</lemma>
+            <lemma>Lemma('make.v.49.take_a_leak')</lemma>
+            <lemma>Lemma('make.v.49.spend_a_penny')</lemma>
+            <lemma>Lemma('make.v.49.wee')</lemma>
+            <lemma>Lemma('make.v.49.wee-wee')</lemma>
+            <lemma>Lemma('make.v.49.pass_water')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>met</w>
+        <synsetCount>13</synsetCount>
+        <synset>
+            <synId>Synset('meet.v.01')</synId>
+            <wnDef>come together</wnDef>
+            <lemma>Lemma('meet.v.01.meet')</lemma>
+            <lemma>Lemma('meet.v.01.run_into')</lemma>
+            <lemma>Lemma('meet.v.01.encounter')</lemma>
+            <lemma>Lemma('meet.v.01.run_across')</lemma>
+            <lemma>Lemma('meet.v.01.come_across')</lemma>
+            <lemma>Lemma('meet.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.02')</synId>
+            <wnDef>get together socially or for a specific purpose</wnDef>
+            <lemma>Lemma('meet.v.02.meet')</lemma>
+            <lemma>Lemma('meet.v.02.get_together')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('converge.v.01')</synId>
+            <wnDef>be adjacent or come together</wnDef>
+            <lemma>Lemma('converge.v.01.converge')</lemma>
+            <lemma>Lemma('converge.v.01.meet')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.04')</synId>
+            <wnDef>fill or meet a want or need</wnDef>
+            <lemma>Lemma('meet.v.04.meet')</lemma>
+            <lemma>Lemma('meet.v.04.satisfy')</lemma>
+            <lemma>Lemma('meet.v.04.fill')</lemma>
+            <lemma>Lemma('meet.v.04.fulfill')</lemma>
+            <lemma>Lemma('meet.v.04.fulfil')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.05')</synId>
+            <wnDef>satisfy a condition or restriction</wnDef>
+            <lemma>Lemma('meet.v.05.meet')</lemma>
+            <lemma>Lemma('meet.v.05.fit')</lemma>
+            <lemma>Lemma('meet.v.05.conform_to')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.06')</synId>
+            <wnDef>satisfy or fulfill</wnDef>
+            <lemma>Lemma('meet.v.06.meet')</lemma>
+            <lemma>Lemma('meet.v.06.match')</lemma>
+            <lemma>Lemma('meet.v.06.cope_with')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.07')</synId>
+            <wnDef>collect in one place</wnDef>
+            <lemma>Lemma('meet.v.07.meet')</lemma>
+            <lemma>Lemma('meet.v.07.gather')</lemma>
+            <lemma>Lemma('meet.v.07.assemble')</lemma>
+            <lemma>Lemma('meet.v.07.forgather')</lemma>
+            <lemma>Lemma('meet.v.07.foregather')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.08')</synId>
+            <wnDef>get to know; get acquainted with</wnDef>
+            <lemma>Lemma('meet.v.08.meet')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.09')</synId>
+            <wnDef>meet by design; be present at the arrival of</wnDef>
+            <lemma>Lemma('meet.v.09.meet')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.10')</synId>
+            <wnDef>contend against an opponent in a sport, game, or battle</wnDef>
+            <lemma>Lemma('meet.v.10.meet')</lemma>
+            <lemma>Lemma('meet.v.10.encounter')</lemma>
+            <lemma>Lemma('meet.v.10.play')</lemma>
+            <lemma>Lemma('meet.v.10.take_on')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.11')</synId>
+            <wnDef>experience as a reaction</wnDef>
+            <lemma>Lemma('meet.v.11.meet')</lemma>
+            <lemma>Lemma('meet.v.11.encounter')</lemma>
+            <lemma>Lemma('meet.v.11.receive')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('suffer.v.10')</synId>
+            <wnDef>undergo or suffer</wnDef>
+            <lemma>Lemma('suffer.v.10.suffer')</lemma>
+            <lemma>Lemma('suffer.v.10.meet')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('touch.v.05')</synId>
+            <wnDef>be in direct physical contact with; make contact</wnDef>
+            <lemma>Lemma('touch.v.05.touch')</lemma>
+            <lemma>Lemma('touch.v.05.adjoin')</lemma>
+            <lemma>Lemma('touch.v.05.meet')</lemma>
+            <lemma>Lemma('touch.v.05.contact')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>mind</w>
+        <synsetCount>13</synsetCount>
+        <synset>
+            <synId>Synset('mind.n.01')</synId>
+            <wnDef>that which is responsible for one's thoughts and feelings; the seat of the
+                faculty of reason</wnDef>
+            <lemma>Lemma('mind.n.01.mind')</lemma>
+            <lemma>Lemma('mind.n.01.head')</lemma>
+            <lemma>Lemma('mind.n.01.brain')</lemma>
+            <lemma>Lemma('mind.n.01.psyche')</lemma>
+            <lemma>Lemma('mind.n.01.nous')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.n.02')</synId>
+            <wnDef>recall or remembrance</wnDef>
+            <lemma>Lemma('mind.n.02.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('judgment.n.01')</synId>
+            <wnDef>an opinion formed by judging something</wnDef>
+            <lemma>Lemma('judgment.n.01.judgment')</lemma>
+            <lemma>Lemma('judgment.n.01.judgement')</lemma>
+            <lemma>Lemma('judgment.n.01.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('thinker.n.01')</synId>
+            <wnDef>an important intellectual</wnDef>
+            <lemma>Lemma('thinker.n.01.thinker')</lemma>
+            <lemma>Lemma('thinker.n.01.creative_thinker')</lemma>
+            <lemma>Lemma('thinker.n.01.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.n.05')</synId>
+            <wnDef>attention</wnDef>
+            <lemma>Lemma('mind.n.05.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.n.06')</synId>
+            <wnDef>your intention; what you intend to do</wnDef>
+            <lemma>Lemma('mind.n.06.mind')</lemma>
+            <lemma>Lemma('mind.n.06.idea')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.n.07')</synId>
+            <wnDef>knowledge and intellectual ability</wnDef>
+            <lemma>Lemma('mind.n.07.mind')</lemma>
+            <lemma>Lemma('mind.n.07.intellect')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.v.01')</synId>
+            <wnDef>be offended or bothered by; take offense with, be bothered by</wnDef>
+            <lemma>Lemma('mind.v.01.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.v.02')</synId>
+            <wnDef>be concerned with or about something or somebody</wnDef>
+            <lemma>Lemma('mind.v.02.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('take_care.v.02')</synId>
+            <wnDef>be in charge of or deal with</wnDef>
+            <lemma>Lemma('take_care.v.02.take_care')</lemma>
+            <lemma>Lemma('take_care.v.02.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('heed.v.01')</synId>
+            <wnDef>pay close attention to; give heed to</wnDef>
+            <lemma>Lemma('heed.v.01.heed')</lemma>
+            <lemma>Lemma('heed.v.01.mind')</lemma>
+            <lemma>Lemma('heed.v.01.listen')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('beware.v.01')</synId>
+            <wnDef>be on one's guard; be cautious or wary about; be alert to</wnDef>
+            <lemma>Lemma('beware.v.01.beware')</lemma>
+            <lemma>Lemma('beware.v.01.mind')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mind.v.06')</synId>
+            <wnDef>keep in mind</wnDef>
+            <lemma>Lemma('mind.v.06.mind')</lemma>
+            <lemma>Lemma('mind.v.06.bear_in_mind')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>months</w>
+        <synsetCount>2</synsetCount>
+        <synset>
+            <synId>Synset('calendar_month.n.01')</synId>
+            <wnDef>one of the twelve divisions of the calendar year</wnDef>
+            <lemma>Lemma('calendar_month.n.01.calendar_month')</lemma>
+            <lemma>Lemma('calendar_month.n.01.month')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('month.n.02')</synId>
+            <wnDef>a time unit of approximately 30 days</wnDef>
+            <lemma>Lemma('month.n.02.month')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>mother</w>
+        <synsetCount>7</synsetCount>
+        <synset>
+            <synId>Synset('mother.n.01')</synId>
+            <wnDef>a woman who has given birth to a child (also used as a term of address to your
+                mother)</wnDef>
+            <lemma>Lemma('mother.n.01.mother')</lemma>
+            <lemma>Lemma('mother.n.01.female_parent')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mother.n.02')</synId>
+            <wnDef>a stringy slimy substance consisting of yeast cells and bacteria; forms during
+                fermentation and is added to cider or wine to produce vinegar</wnDef>
+            <lemma>Lemma('mother.n.02.mother')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mother.n.03')</synId>
+            <wnDef>a term of address for an elderly woman</wnDef>
+            <lemma>Lemma('mother.n.03.mother')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mother.n.04')</synId>
+            <wnDef>a term of address for a mother superior</wnDef>
+            <lemma>Lemma('mother.n.04.mother')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mother.n.05')</synId>
+            <wnDef>a condition that is the inspiration for an activity or situation</wnDef>
+            <lemma>Lemma('mother.n.05.mother')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('mother.v.01')</synId>
+            <wnDef>care for like a mother</wnDef>
+            <lemma>Lemma('mother.v.01.mother')</lemma>
+            <lemma>Lemma('mother.v.01.fuss')</lemma>
+            <lemma>Lemma('mother.v.01.overprotect')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('beget.v.01')</synId>
+            <wnDef>make children</wnDef>
+            <lemma>Lemma('beget.v.01.beget')</lemma>
+            <lemma>Lemma('beget.v.01.get')</lemma>
+            <lemma>Lemma('beget.v.01.engender')</lemma>
+            <lemma>Lemma('beget.v.01.father')</lemma>
+            <lemma>Lemma('beget.v.01.mother')</lemma>
+            <lemma>Lemma('beget.v.01.sire')</lemma>
+            <lemma>Lemma('beget.v.01.generate')</lemma>
+            <lemma>Lemma('beget.v.01.bring_forth')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>needed</w>
+        <synsetCount>4</synsetCount>
+        <synset>
+            <synId>Synset('necessitate.v.01')</synId>
+            <wnDef>require as useful, just, or proper</wnDef>
+            <lemma>Lemma('necessitate.v.01.necessitate')</lemma>
+            <lemma>Lemma('necessitate.v.01.ask')</lemma>
+            <lemma>Lemma('necessitate.v.01.postulate')</lemma>
+            <lemma>Lemma('necessitate.v.01.need')</lemma>
+            <lemma>Lemma('necessitate.v.01.require')</lemma>
+            <lemma>Lemma('necessitate.v.01.take')</lemma>
+            <lemma>Lemma('necessitate.v.01.involve')</lemma>
+            <lemma>Lemma('necessitate.v.01.call_for')</lemma>
+            <lemma>Lemma('necessitate.v.01.demand')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.02')</synId>
+            <wnDef>have need of</wnDef>
+            <lemma>Lemma('want.v.02.want')</lemma>
+            <lemma>Lemma('want.v.02.need')</lemma>
+            <lemma>Lemma('want.v.02.require')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('need.v.03')</synId>
+            <wnDef>have or feel a need for</wnDef>
+            <lemma>Lemma('need.v.03.need')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('needed.s.01')</synId>
+            <wnDef>necessary for relief or supply</wnDef>
+            <lemma>Lemma('needed.s.01.needed')</lemma>
+            <lemma>Lemma('needed.s.01.needful')</lemma>
+            <lemma>Lemma('needed.s.01.required')</lemma>
+            <lemma>Lemma('needed.s.01.requisite')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>neither</w>
+        <synsetCount>1</synsetCount>
+        <synset>
+            <synId>Synset('neither.s.01')</synId>
+            <wnDef>not either; not one or the other</wnDef>
+            <lemma>Lemma('neither.s.01.neither')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>never</w>
+        <synsetCount>2</synsetCount>
+        <synset>
+            <synId>Synset('never.r.01')</synId>
+            <wnDef>not ever; at no time in the past or future</wnDef>
+            <lemma>Lemma('never.r.01.never')</lemma>
+            <lemma>Lemma('never.r.01.ne'er')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('never.r.02')</synId>
+            <wnDef>not at all; certainly not; not in any circumstances</wnDef>
+            <lemma>Lemma('never.r.02.never')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>really</w>
+        <synsetCount>4</synsetCount>
+        <synset>
+            <synId>Synset('truly.r.01')</synId>
+            <wnDef>in accordance with truth or fact or reality</wnDef>
+            <lemma>Lemma('truly.r.01.truly')</lemma>
+            <lemma>Lemma('truly.r.01.genuinely')</lemma>
+            <lemma>Lemma('truly.r.01.really')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('actually.r.01')</synId>
+            <wnDef>in actual fact</wnDef>
+            <lemma>Lemma('actually.r.01.actually')</lemma>
+            <lemma>Lemma('actually.r.01.really')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('in_truth.r.01')</synId>
+            <wnDef>in fact (used as intensifiers or sentence modifiers)</wnDef>
+            <lemma>Lemma('in_truth.r.01.in_truth')</lemma>
+            <lemma>Lemma('in_truth.r.01.really')</lemma>
+            <lemma>Lemma('in_truth.r.01.truly')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('very.r.01')</synId>
+            <wnDef>used as intensifiers; `real' is sometimes used informally for `really';
+                `rattling' is informal</wnDef>
+            <lemma>Lemma('very.r.01.very')</lemma>
+            <lemma>Lemma('very.r.01.really')</lemma>
+            <lemma>Lemma('very.r.01.real')</lemma>
+            <lemma>Lemma('very.r.01.rattling')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>remembered</w>
+        <synsetCount>8</synsetCount>
+        <synset>
+            <synId>Synset('remember.v.01')</synId>
+            <wnDef>recall knowledge from memory; have a recollection</wnDef>
+            <lemma>Lemma('remember.v.01.remember')</lemma>
+            <lemma>Lemma('remember.v.01.retrieve')</lemma>
+            <lemma>Lemma('remember.v.01.recall')</lemma>
+            <lemma>Lemma('remember.v.01.call_back')</lemma>
+            <lemma>Lemma('remember.v.01.call_up')</lemma>
+            <lemma>Lemma('remember.v.01.recollect')</lemma>
+            <lemma>Lemma('remember.v.01.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.02')</synId>
+            <wnDef>keep in mind for attention or consideration</wnDef>
+            <lemma>Lemma('remember.v.02.remember')</lemma>
+            <lemma>Lemma('remember.v.02.think_of')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.03')</synId>
+            <wnDef>recapture the past; indulge in memories</wnDef>
+            <lemma>Lemma('remember.v.03.remember')</lemma>
+            <lemma>Lemma('remember.v.03.think_back')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.04')</synId>
+            <wnDef>show appreciation to</wnDef>
+            <lemma>Lemma('remember.v.04.remember')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.05')</synId>
+            <wnDef>mention favorably, as in prayer</wnDef>
+            <lemma>Lemma('remember.v.05.remember')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('commend.v.05')</synId>
+            <wnDef>mention as by way of greeting or to indicate friendship</wnDef>
+            <lemma>Lemma('commend.v.05.commend')</lemma>
+            <lemma>Lemma('commend.v.05.remember')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.07')</synId>
+            <wnDef>exercise, or have the power of, memory</wnDef>
+            <lemma>Lemma('remember.v.07.remember')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('commemorate.v.02')</synId>
+            <wnDef>call to remembrance; keep alive the memory of someone or something, as in a
+                ceremony</wnDef>
+            <lemma>Lemma('commemorate.v.02.commemorate')</lemma>
+            <lemma>Lemma('commemorate.v.02.remember')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>see</w>
+        <synsetCount>25</synsetCount>
+        <synset>
+            <synId>Synset('see.n.01')</synId>
+            <wnDef>the seat within a bishop's diocese where his cathedral is located</wnDef>
+            <lemma>Lemma('see.n.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.01')</synId>
+            <wnDef>perceive by sight or have the power to perceive by sight</wnDef>
+            <lemma>Lemma('see.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('understand.v.02')</synId>
+            <wnDef>perceive (an idea or situation) mentally</wnDef>
+            <lemma>Lemma('understand.v.02.understand')</lemma>
+            <lemma>Lemma('understand.v.02.realize')</lemma>
+            <lemma>Lemma('understand.v.02.realise')</lemma>
+            <lemma>Lemma('understand.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('witness.v.02')</synId>
+            <wnDef>perceive or be contemporaneous with</wnDef>
+            <lemma>Lemma('witness.v.02.witness')</lemma>
+            <lemma>Lemma('witness.v.02.find')</lemma>
+            <lemma>Lemma('witness.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visualize.v.01')</synId>
+            <wnDef>imagine; conceive of; see in one's mind</wnDef>
+            <lemma>Lemma('visualize.v.01.visualize')</lemma>
+            <lemma>Lemma('visualize.v.01.visualise')</lemma>
+            <lemma>Lemma('visualize.v.01.envision')</lemma>
+            <lemma>Lemma('visualize.v.01.project')</lemma>
+            <lemma>Lemma('visualize.v.01.fancy')</lemma>
+            <lemma>Lemma('visualize.v.01.see')</lemma>
+            <lemma>Lemma('visualize.v.01.figure')</lemma>
+            <lemma>Lemma('visualize.v.01.picture')</lemma>
+            <lemma>Lemma('visualize.v.01.image')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.05')</synId>
+            <wnDef>deem to be</wnDef>
+            <lemma>Lemma('see.v.05.see')</lemma>
+            <lemma>Lemma('see.v.05.consider')</lemma>
+            <lemma>Lemma('see.v.05.reckon')</lemma>
+            <lemma>Lemma('see.v.05.view')</lemma>
+            <lemma>Lemma('see.v.05.regard')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('learn.v.02')</synId>
+            <wnDef>get to know or become aware of, usually accidentally</wnDef>
+            <lemma>Lemma('learn.v.02.learn')</lemma>
+            <lemma>Lemma('learn.v.02.hear')</lemma>
+            <lemma>Lemma('learn.v.02.get_word')</lemma>
+            <lemma>Lemma('learn.v.02.get_wind')</lemma>
+            <lemma>Lemma('learn.v.02.pick_up')</lemma>
+            <lemma>Lemma('learn.v.02.find_out')</lemma>
+            <lemma>Lemma('learn.v.02.get_a_line')</lemma>
+            <lemma>Lemma('learn.v.02.discover')</lemma>
+            <lemma>Lemma('learn.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('watch.v.03')</synId>
+            <wnDef>see or watch</wnDef>
+            <lemma>Lemma('watch.v.03.watch')</lemma>
+            <lemma>Lemma('watch.v.03.view')</lemma>
+            <lemma>Lemma('watch.v.03.see')</lemma>
+            <lemma>Lemma('watch.v.03.catch')</lemma>
+            <lemma>Lemma('watch.v.03.take_in')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('meet.v.01')</synId>
+            <wnDef>come together</wnDef>
+            <lemma>Lemma('meet.v.01.meet')</lemma>
+            <lemma>Lemma('meet.v.01.run_into')</lemma>
+            <lemma>Lemma('meet.v.01.encounter')</lemma>
+            <lemma>Lemma('meet.v.01.run_across')</lemma>
+            <lemma>Lemma('meet.v.01.come_across')</lemma>
+            <lemma>Lemma('meet.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('determine.v.08')</synId>
+            <wnDef>find out, learn, or determine with certainty, usually by making an inquiry or
+                other effort</wnDef>
+            <lemma>Lemma('determine.v.08.determine')</lemma>
+            <lemma>Lemma('determine.v.08.check')</lemma>
+            <lemma>Lemma('determine.v.08.find_out')</lemma>
+            <lemma>Lemma('determine.v.08.see')</lemma>
+            <lemma>Lemma('determine.v.08.ascertain')</lemma>
+            <lemma>Lemma('determine.v.08.watch')</lemma>
+            <lemma>Lemma('determine.v.08.learn')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.10')</synId>
+            <wnDef>be careful or certain to do something; make certain of something</wnDef>
+            <lemma>Lemma('see.v.10.see')</lemma>
+            <lemma>Lemma('see.v.10.check')</lemma>
+            <lemma>Lemma('see.v.10.insure')</lemma>
+            <lemma>Lemma('see.v.10.see_to_it')</lemma>
+            <lemma>Lemma('see.v.10.ensure')</lemma>
+            <lemma>Lemma('see.v.10.control')</lemma>
+            <lemma>Lemma('see.v.10.ascertain')</lemma>
+            <lemma>Lemma('see.v.10.assure')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.11')</synId>
+            <wnDef>go to see for professional or business reasons</wnDef>
+            <lemma>Lemma('see.v.11.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.12')</synId>
+            <wnDef>go to see for a social visit</wnDef>
+            <lemma>Lemma('see.v.12.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.01')</synId>
+            <wnDef>go to see a place, as for entertainment</wnDef>
+            <lemma>Lemma('visit.v.01.visit')</lemma>
+            <lemma>Lemma('visit.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('attend.v.02')</synId>
+            <wnDef>take charge of or deal with</wnDef>
+            <lemma>Lemma('attend.v.02.attend')</lemma>
+            <lemma>Lemma('attend.v.02.take_care')</lemma>
+            <lemma>Lemma('attend.v.02.look')</lemma>
+            <lemma>Lemma('attend.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.15')</synId>
+            <wnDef>receive as a specified guest</wnDef>
+            <lemma>Lemma('see.v.15.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('go_steady.v.01')</synId>
+            <wnDef>date regularly; have a steady relationship with</wnDef>
+            <lemma>Lemma('go_steady.v.01.go_steady')</lemma>
+            <lemma>Lemma('go_steady.v.01.go_out')</lemma>
+            <lemma>Lemma('go_steady.v.01.date')</lemma>
+            <lemma>Lemma('go_steady.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.17')</synId>
+            <wnDef>see and understand, have a good eye</wnDef>
+            <lemma>Lemma('see.v.17.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.18')</synId>
+            <wnDef>deliberate or decide</wnDef>
+            <lemma>Lemma('see.v.18.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.19')</synId>
+            <wnDef>observe as if with an eye</wnDef>
+            <lemma>Lemma('see.v.19.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('examine.v.02')</synId>
+            <wnDef>observe, check out, and look over carefully or inspect</wnDef>
+            <lemma>Lemma('examine.v.02.examine')</lemma>
+            <lemma>Lemma('examine.v.02.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('experience.v.01')</synId>
+            <wnDef>go or live through</wnDef>
+            <lemma>Lemma('experience.v.01.experience')</lemma>
+            <lemma>Lemma('experience.v.01.see')</lemma>
+            <lemma>Lemma('experience.v.01.go_through')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.22')</synId>
+            <wnDef>accompany or escort</wnDef>
+            <lemma>Lemma('see.v.22.see')</lemma>
+            <lemma>Lemma('see.v.22.escort')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('see.v.23')</synId>
+            <wnDef>match or meet</wnDef>
+            <lemma>Lemma('see.v.23.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('interpret.v.01')</synId>
+            <wnDef>make sense of; assign a meaning to</wnDef>
+            <lemma>Lemma('interpret.v.01.interpret')</lemma>
+            <lemma>Lemma('interpret.v.01.construe')</lemma>
+            <lemma>Lemma('interpret.v.01.see')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>sometimes</w>
+        <synsetCount>1</synsetCount>
+        <synset>
+            <synId>Synset('sometimes.r.01')</synId>
+            <wnDef>on certain occasions or in certain cases but not always; at other times for six
+                months"</wnDef>
+            <lemma>Lemma('sometimes.r.01.sometimes')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>taught</w>
+        <synsetCount>2</synsetCount>
+        <synset>
+            <synId>Synset('teach.v.01')</synId>
+            <wnDef>impart skills or knowledge to</wnDef>
+            <lemma>Lemma('teach.v.01.teach')</lemma>
+            <lemma>Lemma('teach.v.01.learn')</lemma>
+            <lemma>Lemma('teach.v.01.instruct')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('teach.v.02')</synId>
+            <wnDef>accustom gradually to some action or attitude</wnDef>
+            <lemma>Lemma('teach.v.02.teach')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>themselves</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>these</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>thought</w>
+        <synsetCount>17</synsetCount>
+        <synset>
+            <synId>Synset('idea.n.01')</synId>
+            <wnDef>the content of cognition; the main thing you are thinking about</wnDef>
+            <lemma>Lemma('idea.n.01.idea')</lemma>
+            <lemma>Lemma('idea.n.01.thought')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('thinking.n.01')</synId>
+            <wnDef>the process of using your mind to consider something carefully</wnDef>
+            <lemma>Lemma('thinking.n.01.thinking')</lemma>
+            <lemma>Lemma('thinking.n.01.thought')</lemma>
+            <lemma>Lemma('thinking.n.01.thought_process')</lemma>
+            <lemma>Lemma('thinking.n.01.cerebration')</lemma>
+            <lemma>Lemma('thinking.n.01.intellection')</lemma>
+            <lemma>Lemma('thinking.n.01.mentation')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('thought.n.03')</synId>
+            <wnDef>the organized beliefs of a period or group or individual</wnDef>
+            <lemma>Lemma('thought.n.03.thought')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('opinion.n.01')</synId>
+            <wnDef>a personal belief or judgment that is not founded on proof or certainty</wnDef>
+            <lemma>Lemma('opinion.n.01.opinion')</lemma>
+            <lemma>Lemma('opinion.n.01.sentiment')</lemma>
+            <lemma>Lemma('opinion.n.01.persuasion')</lemma>
+            <lemma>Lemma('opinion.n.01.view')</lemma>
+            <lemma>Lemma('opinion.n.01.thought')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.01')</synId>
+            <wnDef>judge or regard; look upon; judge</wnDef>
+            <lemma>Lemma('think.v.01.think')</lemma>
+            <lemma>Lemma('think.v.01.believe')</lemma>
+            <lemma>Lemma('think.v.01.consider')</lemma>
+            <lemma>Lemma('think.v.01.conceive')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.02')</synId>
+            <wnDef>expect, believe, or suppose</wnDef>
+            <lemma>Lemma('think.v.02.think')</lemma>
+            <lemma>Lemma('think.v.02.opine')</lemma>
+            <lemma>Lemma('think.v.02.suppose')</lemma>
+            <lemma>Lemma('think.v.02.imagine')</lemma>
+            <lemma>Lemma('think.v.02.reckon')</lemma>
+            <lemma>Lemma('think.v.02.guess')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.03')</synId>
+            <wnDef>use or exercise the mind or one's power of reason in order to make inferences,
+                decisions, or arrive at a solution or judgments</wnDef>
+            <lemma>Lemma('think.v.03.think')</lemma>
+            <lemma>Lemma('think.v.03.cogitate')</lemma>
+            <lemma>Lemma('think.v.03.cerebrate')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('remember.v.01')</synId>
+            <wnDef>recall knowledge from memory; have a recollection</wnDef>
+            <lemma>Lemma('remember.v.01.remember')</lemma>
+            <lemma>Lemma('remember.v.01.retrieve')</lemma>
+            <lemma>Lemma('remember.v.01.recall')</lemma>
+            <lemma>Lemma('remember.v.01.call_back')</lemma>
+            <lemma>Lemma('remember.v.01.call_up')</lemma>
+            <lemma>Lemma('remember.v.01.recollect')</lemma>
+            <lemma>Lemma('remember.v.01.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.05')</synId>
+            <wnDef>imagine or visualize</wnDef>
+            <lemma>Lemma('think.v.05.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.06')</synId>
+            <wnDef>focus one's attention on a certain state</wnDef>
+            <lemma>Lemma('think.v.06.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('intend.v.01')</synId>
+            <wnDef>have in mind as a purpose</wnDef>
+            <lemma>Lemma('intend.v.01.intend')</lemma>
+            <lemma>Lemma('intend.v.01.mean')</lemma>
+            <lemma>Lemma('intend.v.01.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.08')</synId>
+            <wnDef>decide by pondering, reasoning, or reflecting</wnDef>
+            <lemma>Lemma('think.v.08.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.09')</synId>
+            <wnDef>ponder; reflect on, or reason about</wnDef>
+            <lemma>Lemma('think.v.09.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.10')</synId>
+            <wnDef>dispose the mind in a certain way</wnDef>
+            <lemma>Lemma('think.v.10.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.11')</synId>
+            <wnDef>have or formulate in the mind</wnDef>
+            <lemma>Lemma('think.v.11.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.12')</synId>
+            <wnDef>be capable of conscious thought</wnDef>
+            <lemma>Lemma('think.v.12.think')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('think.v.13')</synId>
+            <wnDef>bring into a given condition by mental preoccupation</wnDef>
+            <lemma>Lemma('think.v.13.think')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>tired</w>
+        <synsetCount>6</synsetCount>
+        <synset>
+            <synId>Synset('tire.v.01')</synId>
+            <wnDef>lose interest or become bored with something or somebody</wnDef>
+            <lemma>Lemma('tire.v.01.tire')</lemma>
+            <lemma>Lemma('tire.v.01.pall')</lemma>
+            <lemma>Lemma('tire.v.01.weary')</lemma>
+            <lemma>Lemma('tire.v.01.fatigue')</lemma>
+            <lemma>Lemma('tire.v.01.jade')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('tire.v.02')</synId>
+            <wnDef>exhaust or get tired through overuse or great strain or stress</wnDef>
+            <lemma>Lemma('tire.v.02.tire')</lemma>
+            <lemma>Lemma('tire.v.02.wear_upon')</lemma>
+            <lemma>Lemma('tire.v.02.tire_out')</lemma>
+            <lemma>Lemma('tire.v.02.wear')</lemma>
+            <lemma>Lemma('tire.v.02.weary')</lemma>
+            <lemma>Lemma('tire.v.02.jade')</lemma>
+            <lemma>Lemma('tire.v.02.wear_out')</lemma>
+            <lemma>Lemma('tire.v.02.outwear')</lemma>
+            <lemma>Lemma('tire.v.02.wear_down')</lemma>
+            <lemma>Lemma('tire.v.02.fag_out')</lemma>
+            <lemma>Lemma('tire.v.02.fag')</lemma>
+            <lemma>Lemma('tire.v.02.fatigue')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('run_down.v.06')</synId>
+            <wnDef>deplete</wnDef>
+            <lemma>Lemma('run_down.v.06.run_down')</lemma>
+            <lemma>Lemma('run_down.v.06.exhaust')</lemma>
+            <lemma>Lemma('run_down.v.06.play_out')</lemma>
+            <lemma>Lemma('run_down.v.06.sap')</lemma>
+            <lemma>Lemma('run_down.v.06.tire')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('bore.v.01')</synId>
+            <wnDef>cause to be bored</wnDef>
+            <lemma>Lemma('bore.v.01.bore')</lemma>
+            <lemma>Lemma('bore.v.01.tire')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('tired.a.01')</synId>
+            <wnDef>depleted of strength or energy</wnDef>
+            <lemma>Lemma('tired.a.01.tired')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('banal.s.01')</synId>
+            <wnDef>repeated too often; overfamiliar through overuse</wnDef>
+            <lemma>Lemma('banal.s.01.banal')</lemma>
+            <lemma>Lemma('banal.s.01.commonplace')</lemma>
+            <lemma>Lemma('banal.s.01.hackneyed')</lemma>
+            <lemma>Lemma('banal.s.01.old-hat')</lemma>
+            <lemma>Lemma('banal.s.01.shopworn')</lemma>
+            <lemma>Lemma('banal.s.01.stock')</lemma>
+            <lemma>Lemma('banal.s.01.threadbare')</lemma>
+            <lemma>Lemma('banal.s.01.timeworn')</lemma>
+            <lemma>Lemma('banal.s.01.tired')</lemma>
+            <lemma>Lemma('banal.s.01.trite')</lemma>
+            <lemma>Lemma('banal.s.01.well-worn')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>too</w>
+        <synsetCount>2</synsetCount>
+        <synset>
+            <synId>Synset('excessively.r.01')</synId>
+            <wnDef>to a degree exceeding normal or proper limits</wnDef>
+            <lemma>Lemma('excessively.r.01.excessively')</lemma>
+            <lemma>Lemma('excessively.r.01.overly')</lemma>
+            <lemma>Lemma('excessively.r.01.to_a_fault')</lemma>
+            <lemma>Lemma('excessively.r.01.too')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('besides.r.02')</synId>
+            <wnDef>in addition</wnDef>
+            <lemma>Lemma('besides.r.02.besides')</lemma>
+            <lemma>Lemma('besides.r.02.too')</lemma>
+            <lemma>Lemma('besides.r.02.also')</lemma>
+            <lemma>Lemma('besides.r.02.likewise')</lemma>
+            <lemma>Lemma('besides.r.02.as_well')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>travelled</w>
+        <synsetCount>7</synsetCount>
+        <synset>
+            <synId>Synset('travel.v.01')</synId>
+            <wnDef>change location; move, travel, or proceed, also metaphorically</wnDef>
+            <lemma>Lemma('travel.v.01.travel')</lemma>
+            <lemma>Lemma('travel.v.01.go')</lemma>
+            <lemma>Lemma('travel.v.01.move')</lemma>
+            <lemma>Lemma('travel.v.01.locomote')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel.v.02')</synId>
+            <wnDef>undertake a journey or trip</wnDef>
+            <lemma>Lemma('travel.v.02.travel')</lemma>
+            <lemma>Lemma('travel.v.02.journey')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel.v.03')</synId>
+            <wnDef>make a trip for pleasure</wnDef>
+            <lemma>Lemma('travel.v.03.travel')</lemma>
+            <lemma>Lemma('travel.v.03.trip')</lemma>
+            <lemma>Lemma('travel.v.03.jaunt')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel.v.04')</synId>
+            <wnDef>travel upon or across</wnDef>
+            <lemma>Lemma('travel.v.04.travel')</lemma>
+            <lemma>Lemma('travel.v.04.journey')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel.v.05')</synId>
+            <wnDef>undergo transportation as in a vehicle</wnDef>
+            <lemma>Lemma('travel.v.05.travel')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel.v.06')</synId>
+            <wnDef>travel from place to place, as for the purpose of finding work, preaching, or
+                acting as a judge</wnDef>
+            <lemma>Lemma('travel.v.06.travel')</lemma>
+            <lemma>Lemma('travel.v.06.move_around')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('traveled.s.02')</synId>
+            <wnDef>familiar with many parts of the world</wnDef>
+            <lemma>Lemma('traveled.s.02.traveled')</lemma>
+            <lemma>Lemma('traveled.s.02.travelled')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>visited</w>
+        <synsetCount>8</synsetCount>
+        <synset>
+            <synId>Synset('visit.v.01')</synId>
+            <wnDef>go to see a place, as for entertainment</wnDef>
+            <lemma>Lemma('visit.v.01.visit')</lemma>
+            <lemma>Lemma('visit.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel_to.v.01')</synId>
+            <wnDef>go to certain places as for sightseeing</wnDef>
+            <lemma>Lemma('travel_to.v.01.travel_to')</lemma>
+            <lemma>Lemma('travel_to.v.01.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.03')</synId>
+            <wnDef>pay a brief visit</wnDef>
+            <lemma>Lemma('visit.v.03.visit')</lemma>
+            <lemma>Lemma('visit.v.03.call_in')</lemma>
+            <lemma>Lemma('visit.v.03.call')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.04')</synId>
+            <wnDef>come to see in an official or professional capacity</wnDef>
+            <lemma>Lemma('visit.v.04.visit')</lemma>
+            <lemma>Lemma('visit.v.04.inspect')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inflict.v.01')</synId>
+            <wnDef>impose something unpleasant</wnDef>
+            <lemma>Lemma('inflict.v.01.inflict')</lemma>
+            <lemma>Lemma('inflict.v.01.bring_down')</lemma>
+            <lemma>Lemma('inflict.v.01.visit')</lemma>
+            <lemma>Lemma('inflict.v.01.impose')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('chew_the_fat.v.01')</synId>
+            <wnDef>talk socially without exchanging too much information</wnDef>
+            <lemma>Lemma('chew_the_fat.v.01.chew_the_fat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.shoot_the_breeze')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.confabulate')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.confab')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chitchat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chit-chat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chatter')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chaffer')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.natter')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.gossip')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.jaw')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.claver')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.07')</synId>
+            <wnDef>stay with as a guest</wnDef>
+            <lemma>Lemma('visit.v.07.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.08')</synId>
+            <wnDef>assail</wnDef>
+            <lemma>Lemma('visit.v.08.visit')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>visiting</w>
+        <synsetCount>9</synsetCount>
+        <synset>
+            <synId>Synset('visiting.n.01')</synId>
+            <wnDef>the activity of making visits</wnDef>
+            <lemma>Lemma('visiting.n.01.visiting')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.01')</synId>
+            <wnDef>go to see a place, as for entertainment</wnDef>
+            <lemma>Lemma('visit.v.01.visit')</lemma>
+            <lemma>Lemma('visit.v.01.see')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('travel_to.v.01')</synId>
+            <wnDef>go to certain places as for sightseeing</wnDef>
+            <lemma>Lemma('travel_to.v.01.travel_to')</lemma>
+            <lemma>Lemma('travel_to.v.01.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.03')</synId>
+            <wnDef>pay a brief visit</wnDef>
+            <lemma>Lemma('visit.v.03.visit')</lemma>
+            <lemma>Lemma('visit.v.03.call_in')</lemma>
+            <lemma>Lemma('visit.v.03.call')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.04')</synId>
+            <wnDef>come to see in an official or professional capacity</wnDef>
+            <lemma>Lemma('visit.v.04.visit')</lemma>
+            <lemma>Lemma('visit.v.04.inspect')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('inflict.v.01')</synId>
+            <wnDef>impose something unpleasant</wnDef>
+            <lemma>Lemma('inflict.v.01.inflict')</lemma>
+            <lemma>Lemma('inflict.v.01.bring_down')</lemma>
+            <lemma>Lemma('inflict.v.01.visit')</lemma>
+            <lemma>Lemma('inflict.v.01.impose')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('chew_the_fat.v.01')</synId>
+            <wnDef>talk socially without exchanging too much information</wnDef>
+            <lemma>Lemma('chew_the_fat.v.01.chew_the_fat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.shoot_the_breeze')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.confabulate')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.confab')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chitchat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chit-chat')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chatter')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.chaffer')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.natter')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.gossip')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.jaw')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.claver')</lemma>
+            <lemma>Lemma('chew_the_fat.v.01.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.07')</synId>
+            <wnDef>stay with as a guest</wnDef>
+            <lemma>Lemma('visit.v.07.visit')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('visit.v.08')</synId>
+            <wnDef>assail</wnDef>
+            <lemma>Lemma('visit.v.08.visit')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>wanted</w>
+        <synsetCount>7</synsetCount>
+        <synset>
+            <synId>Synset('desire.v.01')</synId>
+            <wnDef>feel or have a desire for; want strongly</wnDef>
+            <lemma>Lemma('desire.v.01.desire')</lemma>
+            <lemma>Lemma('desire.v.01.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.02')</synId>
+            <wnDef>have need of</wnDef>
+            <lemma>Lemma('want.v.02.want')</lemma>
+            <lemma>Lemma('want.v.02.need')</lemma>
+            <lemma>Lemma('want.v.02.require')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.03')</synId>
+            <wnDef>hunt or look for; want for a particular reason</wnDef>
+            <lemma>Lemma('want.v.03.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.04')</synId>
+            <wnDef>wish or demand the presence of</wnDef>
+            <lemma>Lemma('want.v.04.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.05')</synId>
+            <wnDef>be without, lack; be deficient in</wnDef>
+            <lemma>Lemma('want.v.05.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('wanted.a.01')</synId>
+            <wnDef>desired or wished for or sought</wnDef>
+            <lemma>Lemma('wanted.a.01.wanted')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('cherished.s.01')</synId>
+            <wnDef>characterized by feeling or showing fond affection for</wnDef>
+            <lemma>Lemma('cherished.s.01.cherished')</lemma>
+            <lemma>Lemma('cherished.s.01.precious')</lemma>
+            <lemma>Lemma('cherished.s.01.treasured')</lemma>
+            <lemma>Lemma('cherished.s.01.wanted')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>wanting</w>
+        <synsetCount>7</synsetCount>
+        <synset>
+            <synId>Synset('desire.v.01')</synId>
+            <wnDef>feel or have a desire for; want strongly</wnDef>
+            <lemma>Lemma('desire.v.01.desire')</lemma>
+            <lemma>Lemma('desire.v.01.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.02')</synId>
+            <wnDef>have need of</wnDef>
+            <lemma>Lemma('want.v.02.want')</lemma>
+            <lemma>Lemma('want.v.02.need')</lemma>
+            <lemma>Lemma('want.v.02.require')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.03')</synId>
+            <wnDef>hunt or look for; want for a particular reason</wnDef>
+            <lemma>Lemma('want.v.03.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.04')</synId>
+            <wnDef>wish or demand the presence of</wnDef>
+            <lemma>Lemma('want.v.04.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('want.v.05')</synId>
+            <wnDef>be without, lack; be deficient in</wnDef>
+            <lemma>Lemma('want.v.05.want')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('lacking.s.02')</synId>
+            <wnDef>nonexistent</wnDef>
+            <lemma>Lemma('lacking.s.02.lacking')</lemma>
+            <lemma>Lemma('lacking.s.02.absent')</lemma>
+            <lemma>Lemma('lacking.s.02.missing')</lemma>
+            <lemma>Lemma('lacking.s.02.wanting')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('deficient.s.01')</synId>
+            <wnDef>inadequate in amount or degree</wnDef>
+            <lemma>Lemma('deficient.s.01.deficient')</lemma>
+            <lemma>Lemma('deficient.s.01.lacking')</lemma>
+            <lemma>Lemma('deficient.s.01.wanting')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>which</w>
+        <synsetCount>0</synsetCount>
+    </word>
+    <word>
+        <w>worked</w>
+        <synsetCount>27</synsetCount>
+        <synset>
+            <synId>Synset('work.v.01')</synId>
+            <wnDef>exert oneself by doing mental or physical work for a purpose or out of
+                necessity</wnDef>
+            <lemma>Lemma('work.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.02')</synId>
+            <wnDef>be employed</wnDef>
+            <lemma>Lemma('work.v.02.work')</lemma>
+            <lemma>Lemma('work.v.02.do_work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.03')</synId>
+            <wnDef>have an effect or outcome; often the one desired or expected</wnDef>
+            <lemma>Lemma('work.v.03.work')</lemma>
+            <lemma>Lemma('work.v.03.act')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('function.v.01')</synId>
+            <wnDef>perform as expected when applied</wnDef>
+            <lemma>Lemma('function.v.01.function')</lemma>
+            <lemma>Lemma('function.v.01.work')</lemma>
+            <lemma>Lemma('function.v.01.operate')</lemma>
+            <lemma>Lemma('function.v.01.go')</lemma>
+            <lemma>Lemma('function.v.01.run')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.05')</synId>
+            <wnDef>shape, form, or improve a material</wnDef>
+            <lemma>Lemma('work.v.05.work')</lemma>
+            <lemma>Lemma('work.v.05.work_on')</lemma>
+            <lemma>Lemma('work.v.05.process')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('exercise.v.03')</synId>
+            <wnDef>give a workout to</wnDef>
+            <lemma>Lemma('exercise.v.03.exercise')</lemma>
+            <lemma>Lemma('exercise.v.03.work')</lemma>
+            <lemma>Lemma('exercise.v.03.work_out')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('make.v.36')</synId>
+            <wnDef>proceed along a path</wnDef>
+            <lemma>Lemma('make.v.36.make')</lemma>
+            <lemma>Lemma('make.v.36.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.08')</synId>
+            <wnDef>operate in a certain place, area, or specialty</wnDef>
+            <lemma>Lemma('work.v.08.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.09')</synId>
+            <wnDef>proceed towards a goal or along a path or through an activity</wnDef>
+            <lemma>Lemma('work.v.09.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.10')</synId>
+            <wnDef>move in an agitated manner</wnDef>
+            <lemma>Lemma('work.v.10.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('bring.v.03')</synId>
+            <wnDef>cause to happen or to occur as a consequence</wnDef>
+            <lemma>Lemma('bring.v.03.bring')</lemma>
+            <lemma>Lemma('bring.v.03.work')</lemma>
+            <lemma>Lemma('bring.v.03.play')</lemma>
+            <lemma>Lemma('bring.v.03.wreak')</lemma>
+            <lemma>Lemma('bring.v.03.make_for')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.12')</synId>
+            <wnDef>cause to work</wnDef>
+            <lemma>Lemma('work.v.12.work')</lemma>
+            <lemma>Lemma('work.v.12.put_to_work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('cultivate.v.02')</synId>
+            <wnDef>prepare for crops</wnDef>
+            <lemma>Lemma('cultivate.v.02.cultivate')</lemma>
+            <lemma>Lemma('cultivate.v.02.crop')</lemma>
+            <lemma>Lemma('cultivate.v.02.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.14')</synId>
+            <wnDef>behave in a certain way when handled</wnDef>
+            <lemma>Lemma('work.v.14.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('influence.v.01')</synId>
+            <wnDef>have and exert influence or effect</wnDef>
+            <lemma>Lemma('influence.v.01.influence')</lemma>
+            <lemma>Lemma('influence.v.01.act_upon')</lemma>
+            <lemma>Lemma('influence.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.16')</synId>
+            <wnDef>operate in or through</wnDef>
+            <lemma>Lemma('work.v.16.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.17')</synId>
+            <wnDef>cause to operate or function</wnDef>
+            <lemma>Lemma('work.v.17.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.18')</synId>
+            <wnDef>provoke or excite</wnDef>
+            <lemma>Lemma('work.v.18.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.19')</synId>
+            <wnDef>gratify and charm, usually in order to influence</wnDef>
+            <lemma>Lemma('work.v.19.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('shape.v.02')</synId>
+            <wnDef>make something, usually for a specific function</wnDef>
+            <lemma>Lemma('shape.v.02.shape')</lemma>
+            <lemma>Lemma('shape.v.02.form')</lemma>
+            <lemma>Lemma('shape.v.02.work')</lemma>
+            <lemma>Lemma('shape.v.02.mold')</lemma>
+            <lemma>Lemma('shape.v.02.mould')</lemma>
+            <lemma>Lemma('shape.v.02.forge')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.21')</synId>
+            <wnDef>move into or onto</wnDef>
+            <lemma>Lemma('work.v.21.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('knead.v.01')</synId>
+            <wnDef>make uniform</wnDef>
+            <lemma>Lemma('knead.v.01.knead')</lemma>
+            <lemma>Lemma('knead.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('exploit.v.01')</synId>
+            <wnDef>use or manipulate to one's advantage</wnDef>
+            <lemma>Lemma('exploit.v.01.exploit')</lemma>
+            <lemma>Lemma('exploit.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('solve.v.01')</synId>
+            <wnDef>find the solution to (a problem or question) or understand the meaning of</wnDef>
+            <lemma>Lemma('solve.v.01.solve')</lemma>
+            <lemma>Lemma('solve.v.01.work_out')</lemma>
+            <lemma>Lemma('solve.v.01.figure_out')</lemma>
+            <lemma>Lemma('solve.v.01.puzzle_out')</lemma>
+            <lemma>Lemma('solve.v.01.lick')</lemma>
+            <lemma>Lemma('solve.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('ferment.v.03')</synId>
+            <wnDef>cause to undergo fermentation</wnDef>
+            <lemma>Lemma('ferment.v.03.ferment')</lemma>
+            <lemma>Lemma('ferment.v.03.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('sour.v.01')</synId>
+            <wnDef>go sour or spoil</wnDef>
+            <lemma>Lemma('sour.v.01.sour')</lemma>
+            <lemma>Lemma('sour.v.01.turn')</lemma>
+            <lemma>Lemma('sour.v.01.ferment')</lemma>
+            <lemma>Lemma('sour.v.01.work')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('work.v.27')</synId>
+            <wnDef>arrive at a certain condition through repeated motion</wnDef>
+            <lemma>Lemma('work.v.27.work')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>worrying</w>
+        <synsetCount>9</synsetCount>
+        <synset>
+            <synId>Synset('badgering.n.01')</synId>
+            <wnDef>the act of harassing someone</wnDef>
+            <lemma>Lemma('badgering.n.01.badgering')</lemma>
+            <lemma>Lemma('badgering.n.01.worrying')</lemma>
+            <lemma>Lemma('badgering.n.01.torment')</lemma>
+            <lemma>Lemma('badgering.n.01.bedevilment')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worrying.n.02')</synId>
+            <wnDef>the act of moving something by repeated tugs or pushes</wnDef>
+            <lemma>Lemma('worrying.n.02.worrying')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worry.v.01')</synId>
+            <wnDef>be worried, concerned, anxious, troubled, or uneasy</wnDef>
+            <lemma>Lemma('worry.v.01.worry')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worry.v.02')</synId>
+            <wnDef>be concerned with</wnDef>
+            <lemma>Lemma('worry.v.02.worry')</lemma>
+            <lemma>Lemma('worry.v.02.care')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worry.v.03')</synId>
+            <wnDef>disturb the peace of mind of; afflict with mental agitation or distress</wnDef>
+            <lemma>Lemma('worry.v.03.worry')</lemma>
+            <lemma>Lemma('worry.v.03.vex')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('concern.v.02')</synId>
+            <wnDef>be on the mind of</wnDef>
+            <lemma>Lemma('concern.v.02.concern')</lemma>
+            <lemma>Lemma('concern.v.02.interest')</lemma>
+            <lemma>Lemma('concern.v.02.occupy')</lemma>
+            <lemma>Lemma('concern.v.02.worry')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worry.v.05')</synId>
+            <wnDef>lacerate by biting</wnDef>
+            <lemma>Lemma('worry.v.05.worry')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worry.v.06')</synId>
+            <wnDef>touch or rub constantly</wnDef>
+            <lemma>Lemma('worry.v.06.worry')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('distressing.s.01')</synId>
+            <wnDef>causing distress or worry or anxiety</wnDef>
+            <lemma>Lemma('distressing.s.01.distressing')</lemma>
+            <lemma>Lemma('distressing.s.01.distressful')</lemma>
+            <lemma>Lemma('distressing.s.01.disturbing')</lemma>
+            <lemma>Lemma('distressing.s.01.perturbing')</lemma>
+            <lemma>Lemma('distressing.s.01.troubling')</lemma>
+            <lemma>Lemma('distressing.s.01.worrisome')</lemma>
+            <lemma>Lemma('distressing.s.01.worrying')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>worth</w>
+        <synsetCount>5</synsetCount>
+        <synset>
+            <synId>Synset('worth.n.01')</synId>
+            <wnDef>an indefinite quantity of something having a specified value</wnDef>
+            <lemma>Lemma('worth.n.01.worth')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worth.n.02')</synId>
+            <wnDef>the quality that renders something desirable or valuable or useful</wnDef>
+            <lemma>Lemma('worth.n.02.worth')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worth.n.03')</synId>
+            <wnDef>French couturier (born in England) regarded as the founder of Parisian haute
+                couture; noted for introducing the bustle (1825-1895)</wnDef>
+            <lemma>Lemma('worth.n.03.Worth')</lemma>
+            <lemma>Lemma('worth.n.03.Charles_Frederick_Worth')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('deserving.s.01')</synId>
+            <wnDef>worthy of being treated in a particular way</wnDef>
+            <lemma>Lemma('deserving.s.01.deserving')</lemma>
+            <lemma>Lemma('deserving.s.01.worth')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('worth.s.02')</synId>
+            <wnDef>having a specified value</wnDef>
+            <lemma>Lemma('worth.s.02.worth')</lemma>
+        </synset>
+    </word>
+    <word>
+        <w>years</w>
+        <synsetCount>7</synsetCount>
+        <synset>
+            <synId>Synset('old_age.n.01')</synId>
+            <wnDef>a late time of life</wnDef>
+            <lemma>Lemma('old_age.n.01.old_age')</lemma>
+            <lemma>Lemma('old_age.n.01.years')</lemma>
+            <lemma>Lemma('old_age.n.01.age')</lemma>
+            <lemma>Lemma('old_age.n.01.eld')</lemma>
+            <lemma>Lemma('old_age.n.01.geezerhood')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('long_time.n.01')</synId>
+            <wnDef>a prolonged period of time</wnDef>
+            <lemma>Lemma('long_time.n.01.long_time')</lemma>
+            <lemma>Lemma('long_time.n.01.age')</lemma>
+            <lemma>Lemma('long_time.n.01.years')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('days.n.01')</synId>
+            <wnDef>the time during which someone's life continues</wnDef>
+            <lemma>Lemma('days.n.01.days')</lemma>
+            <lemma>Lemma('days.n.01.years')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('year.n.01')</synId>
+            <wnDef>a period of time containing 365 (or 366) days</wnDef>
+            <lemma>Lemma('year.n.01.year')</lemma>
+            <lemma>Lemma('year.n.01.twelvemonth')</lemma>
+            <lemma>Lemma('year.n.01.yr')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('year.n.02')</synId>
+            <wnDef>a period of time occupying a regular part of a calendar year that is used for
+                some particular activity</wnDef>
+            <lemma>Lemma('year.n.02.year')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('year.n.03')</synId>
+            <wnDef>the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a
+                complete revolution around the sun</wnDef>
+            <lemma>Lemma('year.n.03.year')</lemma>
+        </synset>
+        <synset>
+            <synId>Synset('class.n.06')</synId>
+            <wnDef>a body of students who graduate together</wnDef>
+            <lemma>Lemma('class.n.06.class')</lemma>
+            <lemma>Lemma('class.n.06.year')</lemma>
+        </synset>
+    </word>
+</xml>

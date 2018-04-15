@@ -1,5 +1,5 @@
 from nltk.corpus import wordnet as wn
-with open('OneDistinctWords.txt', 'r') as infile: # open the plain text file that contains the list of words
+with open('OrderedOneWords.txt', 'r') as infile: # open the plain text file that contains the list of words
     wordlist = infile.read().split() # read the words into a list, splitting on the new lines
 with open('synset_info_odw.xml', 'w') as outfile: # open a file to hold the XML output
     outfile.write('<xml>') # create a start tag for the root element in the output XML file
