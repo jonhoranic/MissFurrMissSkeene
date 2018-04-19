@@ -1,0 +1,22 @@
+count(distinct-values(//TERM/lower-case(.)))
+
+135 distinct repeating terms
+48 distinct one/single terms
+3 distinct honorifics
+2 distinct first names 
+2 distinct last names
+---
+190 distinct words
+
+**********************
+
+count(//TERM)
+
+1907 total repeating terms
+74 total last names
+48 total single terms
+47 total first names
+28 total honorifics
+---
+2,104 total words
+
